@@ -3,8 +3,17 @@
 
 @import "{{ site.theme }}";
 
-@import url('https://fonts.googleapis.com/css2?family=Gochi+Hand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gochi+Hand&family=Nunito&display=swap');
+
+body {
+  font-family: 'Nunito', sans-serif;
+}
 
 h1 {
-font-family: 'Gochi Hand', cursive;
+  font-family: 'Gochi Hand', cursive;
+}
+
+h2, h3, h4, h5, h6 {
+  font-family: 'Nunito', sans-serif;
+  font-weight: 900;
 }
