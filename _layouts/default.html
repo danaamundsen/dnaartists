@@ -16,11 +16,6 @@
     <div class="wrapper">
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-        
-        <ul>
-          <li><a href="about.html">about</a></li>
-          <li><a href="#">link</a></li>
-        </ul>
 
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
@@ -28,6 +23,11 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
+        <ul>
+          <li><a href="about.html">about</a></li>
+          <li><a href="#">link</a></li>
+        </ul>
+        
       </header>
       <section>
 
