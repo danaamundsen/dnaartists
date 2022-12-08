@@ -1,0 +1,9 @@
+title: DnA Artists
+description: Artists and Friends
+show_downloads: false
+# google_analytics:
+theme: jekyll-theme-minimal
+plugins: 
+  - jekyll-feed
+gems:
+  - jekyll-feed
