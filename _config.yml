@@ -2,7 +2,7 @@ title: DnA Artists
 logo: /assets/img/logo.png
 description: Artists and Friends
 show_downloads: false
-# google_analytics:
+google_analytics:
 theme: jekyll-theme-minimal
 plugins: 
   - jekyll-feed
