@@ -25,9 +25,17 @@ h3, h4, h5, h6 {
 a {
   color: #00BBE0;
   font-weight: normal;
+  text-decoration: underline;
 }
 
 a:hover, a:active {
   color: #FEE440;
   font-weight: normal;
+  text-decoration: none;
+}
+
+ul.menu {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
