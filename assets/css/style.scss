@@ -44,16 +44,18 @@ ul.menu {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  background-color: #f1f1f1;
+  background-color: #00BBE0;
 }
 
 li a.menu_item {
   display: block;
   padding: 8px 16px;
+  color: #FFF;
   text-decoration: none;
+  border-radius: 5px;
 }
 
 li a.menu_item:hover {
-  background-color: #555;
-  color: white;
+  background-color: #FEE440;
+  color: #000;
 }
