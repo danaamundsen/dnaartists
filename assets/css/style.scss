@@ -32,10 +32,14 @@ h3, h4, h5, h6 {
 
 /* links */
 
-a, a:visited {
+a {
   color: #00BBE0;
   font-weight: normal;
   text-decoration: underline;
+}
+
+h1 a, h2 a {
+  color: #AD5DE5;
 }
 
 a:hover, a:active {
@@ -44,9 +48,6 @@ a:hover, a:active {
   text-decoration: none;
 }
 
-h1 a, h2 a {
-  color: #AD5DE5;
-}
 
 /* menu links */
 
