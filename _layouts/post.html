@@ -8,6 +8,8 @@ layout: default
 <small>Author: {{ page.author }}
 <br>Date: {{ page.date | date: "%D" }}</small>
 
+<p></p>
+
 {{content}}
   
 <!---share links--->
@@ -15,6 +17,7 @@ layout: default
   <a href="http://www.tumblr.com/share/link?url={{ site.url }}{{ page.url }}&name={{ page.title  }}" title "share on tumblr">share on tumblr</a></small>
 
 <!---prev/next post links-->
+<p></p>
 <small align="right">
     {% if page.previous.url %}
     <a href="{{ page.previous.url }}"><< {{ page.previous.title }}</a> | 
