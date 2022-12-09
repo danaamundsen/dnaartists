@@ -10,3 +10,5 @@ We have been accepted to table at the Detroit Zine Fest on March 4, 2023 11AM-7P
 <a href="https://www.instagram.com/detzinefest/">Follow Detroit Zine Fest on instagram</a> to stay up to date on the event, and <a href="http://www.instagram.com/dna.artists/">follow us on Instagram</a> to see the behind the scenes as we prepare for the fest.
 
 -Dana
+
+<!--more-->
