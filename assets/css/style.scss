@@ -10,9 +10,9 @@ body {
 }
 
 hr {
-  margin: auto;
+  margin: 25px auto;
   width: 50%;
-  border-top: 3px solid #AD5DE5;
+  border-top: 2px solid #AD5DE5;
 }
 
 /* headers */
@@ -55,13 +55,13 @@ ul.menu {
 li a.menu_item {
   display: block;
   text-align: center;
-  padding: 8px 16px;
+  padding: 8px;
   margin: 3px;
   color: #00BBE0;
   font-weight: 600;
   border: 3px solid #00BBE0;
   text-decoration: none;
-  border-radius: 5px;
+  border-radius: 6px;
 }
 
 li a.menu_item:hover {
