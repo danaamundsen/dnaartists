@@ -44,13 +44,14 @@ ul.menu {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  background-color: #00BBE0;
 }
 
 li a.menu_item {
   display: block;
   padding: 8px 16px;
   color: #FFF;
+  font-weight: 600;
+  background-color: #00BBE0;
   text-decoration: none;
   border-radius: 5px;
 }
