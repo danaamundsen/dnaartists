@@ -32,13 +32,13 @@ h3, h4, h5, h6 {
 
 /* links */
 
-a:link {
+a {
   color: #00BBE0;
   font-weight: normal;
   text-decoration: underline;
 }
 
-h1 a:link, h2 a:link {
+h1 a, h2 a {
   color: #AD5DE5;
 }
 
@@ -57,7 +57,7 @@ ul.menu {
   padding: 0;
 }
 
-li a.menu_item:link {
+li a.menu_item {
   display: block;
   text-align: center;
   padding: 8px;
