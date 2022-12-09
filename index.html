@@ -2,27 +2,21 @@
 layout: default
 ---
 
-<h2>This is a heading</h2>
-<p>This is body text </p>
+<h1>About Us</h1>
 
-<h3>This is a sub heading</h3>
-<ol>
-  <li>this is an ordered list</li>
-  <li>item 2</li>
-  <li>item 3</li>
-</ol>
+<p>DnA is a collaboration between <a href="http://www.danaamundsen.com/">Dana Amundsen</a> and <a href="https://aokvisualartist.com/">Alex O’Keefe</a>, midwestern zinsters, illustrators, and comic artists. Dana draws girls with swords (and cats), while Alex draws nature goth illustrations (and bunnies). They’ve been drawing together since 2010 no matter how far apart they find themselves. 
 
-<p>And here is some more text after the list.</p>
+<h1>Follow Us</h1>
+<ul>
+  <li><a href="http://www.instagram.com/dna.artists/">DnA Artists on Instagram</a></li>
+</ul>
+
 
 <h1>Most Recent Post</h1>
-
-<div class="posts">
   
   {% for post in site.posts limit:1 %}
 
-    <article class="post">
       <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-
       
       <div class="entry">
         {{ post.excerpt }}
@@ -39,7 +33,6 @@ layout: default
   {% unless forloop.last %}&nbsp;{% endunless %}
   {% endfor %}
         | <a href="{{ site.baseurl }}{{ post.url }}#comments">comments</a></small>
-    </article>
   <hr></hr>
 
 {% endfor %}
