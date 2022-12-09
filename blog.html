@@ -6,6 +6,7 @@ permalink: /blog/
 <h1>Blog</h1>
 
   {% for post in site.posts %}
+
       <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
 
         {{ post.excerpt }}
@@ -13,6 +14,5 @@ permalink: /blog/
       <small><a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Permalink</a> | Date: {{ post.date | date: "%D" }} | Author: {{ post.author }}</small>
 
   <hr></hr>
+
   {% endfor %}
-  
-</div>
