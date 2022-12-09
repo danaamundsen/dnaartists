@@ -3,6 +3,7 @@ logo: /assets/img/logo2.png
 description: Artists and Friends
 paginate: 5
 paginate_path: "/blog/page:num/"
+excerpt_separator: <!--more-->
 google_analytics:
 theme: jekyll-theme-minimal
 plugins: 
