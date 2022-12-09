@@ -79,3 +79,22 @@ li a.menu_item:active {
   background-color: #AD5DE5;
   color: #FFF;
 }
+
+@media print, screen and (max-width: 960px) {
+
+section{
+  border: 0px;
+  }
+  
+@media print, screen and (max-width: 720px) {
+  
+section{
+  border: 0px;
+  }
+
+@media print, screen and (max-width: 480px) {
+  
+section{
+  border: 0px;
+  }
+
