@@ -5,17 +5,17 @@ layout: default
 
 <h2>{{ page.title }}</h2>
 
-<p>Author: {{ page.author }}
-<br>Date: {{ page.date | date: "%D" }}</p>
+<small>Author: {{ page.author }}
+<br>Date: {{ page.date | date: "%D" }}</small>
 
 {{content}}
   
 <!---share links--->
-<p><a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}" rel="nofollow" target="_blank" title="Share on Twitter">share on twitter</a> | 
-  <a href="http://www.tumblr.com/share/link?url={{ site.url }}{{ page.url }}&name={{ page.title  }}" title "share on tumblr">share on tumblr</a></p>
+<small><a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}" rel="nofollow" target="_blank" title="Share on Twitter">share on twitter</a> | 
+  <a href="http://www.tumblr.com/share/link?url={{ site.url }}{{ page.url }}&name={{ page.title  }}" title "share on tumblr">share on tumblr</a></small>
 
 <!---prev/next post links-->
-<p align="right">
+<small align="right">
     {% if page.previous.url %}
     <a href="{{ page.previous.url }}"><< {{ page.previous.title }}</a> | 
     {% endif %}
@@ -23,4 +23,4 @@ layout: default
     {% if page.next.url %}
     <a href="{{ page.next.url }}">{{ page.next.title }} >></a>
     {% endif %}
-</p>
+</small>
