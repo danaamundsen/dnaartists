@@ -14,11 +14,12 @@ layout: default
 
 <p>And here is some more text after the list.</p>
 
+<h1>Most Recent Post</h1>
+
 <div class="posts">
   
-  {% for post in site.posts limit:3 %}
+  {% for post in site.posts limit:1 %}
 
-<p>>> {{ post.date | date: "%D" }}
     <article class="post">
       <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
 
