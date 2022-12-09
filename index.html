@@ -15,7 +15,10 @@ layout: default
 <p>And here is some more text after the list.</p>
 
 <div class="posts">
-  {% for post in paginator.posts %}
+  
+  {% for post in site.posts limit:3 %}
+
+<p>>> {{ post.date | date: "%D" }}
     <article class="post">
       <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
 
@@ -37,8 +40,9 @@ layout: default
         | <a href="{{ site.baseurl }}{{ post.url }}#comments">comments</a></small>
     </article>
   <hr></hr>
-  {% endfor %}
-  
+
+{% endfor %}
+
 </div>
 
 
