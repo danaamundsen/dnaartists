@@ -63,3 +63,8 @@ li a.menu_item:hover {
   color: #FFF;
   border: 3px solid #FEE440;
 }
+
+li a.menu_item:active {
+  background-color: #AD5DE5;
+  color: #FFF;
+}
