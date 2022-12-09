@@ -50,14 +50,14 @@ li a.menu_item {
   display: block;
   padding: 8px 16px;
   margin: 3px;
-  color: #FFF;
+  color: #00BBE0;
   font-weight: 600;
-  background-color: #00BBE0;
+  border: 3px solid #00BBE0;
   text-decoration: none;
   border-radius: 5px;
 }
 
 li a.menu_item:hover {
   background-color: #FEE440;
-  color: #000;
+  color: #FFF;
 }
