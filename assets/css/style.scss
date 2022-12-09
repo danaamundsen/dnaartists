@@ -9,6 +9,8 @@ body {
   font-family: 'Nunito', sans-serif;
 }
 
+/* headers */
+
 h1, h2, h3, h4, h5, h6 {
   color: #AD5DE5;
 }
@@ -22,6 +24,8 @@ h3, h4, h5, h6 {
   font-weight: 900;
 }
 
+/* links */
+
 a {
   color: #00BBE0;
   font-weight: normal;
@@ -34,12 +38,23 @@ a:hover, a:active {
   text-decoration: none;
 }
 
+/* menu links */
+
 ul.menu {
   list-style-type: none;
   margin: 0;
   padding: 0;
+  background-color: #f1f1f1;
 }
 
 li a.menu_item {
   display: block;
+  color: ;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+li a.menu_item:hover {
+  background-color: #555;
+  color: white;
 }
