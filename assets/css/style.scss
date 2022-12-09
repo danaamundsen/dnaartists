@@ -25,3 +25,13 @@ h2 {
 h3 {
   color: #AD5DE5;
 }
+
+a {
+  color: #00BBE0;
+  font-weight: normal;
+}
+
+a: hover, a:active {
+  color: #FEE440;
+  font-weight: normal;
+}
