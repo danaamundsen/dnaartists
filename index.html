@@ -21,7 +21,7 @@ layout: default
       
         {{ post.excerpt }}
 
-      <small><a href="{{ site.baseurl }}{{ post.url }}" class="read-more">read more</a> | date: {{ post.date | date: "%D" }}</small>
+      <small><a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Permalink</a> | Date: {{ post.date | date: "%D" }} | Author: {{ post.author }}</small>
 
    {% endfor %}
 
