@@ -8,7 +8,7 @@ publish: true/false
 
 Post content goes here.
 
-Title of post should be formatted: YYYY-MM-DD-title.md with the date being the date posted and not the date drafted.
+Name of the file should be be formatted: YYYY-MM-DD-title.md with the date being the date posted and not the date drafted.
 
 Posts can be written in markdown (https://github.github.com/gfm/) or html.
 
