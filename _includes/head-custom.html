@@ -11,19 +11,12 @@
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Gochi+Hand&family=Nunito&display=swap" rel="stylesheet">
 
-<!-- Twitter cards -->
-<meta name="twitter:card" content="summary">
-<meta name="twitter:site" content="@dna_artists">
-{% if page.title %}
-<meta name="twitter:title" content="{{ page.title }}">
-{% else %}
-<meta name="twitter:title" content="{{ site.title }} | {{site.description}}">
-{% endif %}
-{% if page.image %}
-<meta name="twitter:image" content="{{ page.image }}">
-{% else %}
-<meta name="twitter:image" content="/assets/img/logo.png">
-{% endif %}
-<!-- end of Twitter cards -->
+<!-- metadata -->
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@dna_artists" />
+<meta property="og:url" content="{{ page.url }}" />
+<meta property="og:title" content="{{ page.title }}" />
+<meta property="og:description" content="DnA is a collaboration between Dana Amundsen and Alex O’Keefe, midwestern zinesters, illustrators, and comic artists." />
+<meta property="og:image" content="http://www.dnaartists.net/assets/img/logo/png" />
 
 <!-- end custom head snippets -->
