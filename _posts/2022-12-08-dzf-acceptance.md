@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Detroit Zine Fest 2023
-author: ["Dana"]
+author: Dana
 tags: ["events"]
 ---
 
