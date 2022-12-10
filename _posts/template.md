@@ -1,7 +1,7 @@
 ---
 layout:post
-title: 
-author: ["Dana"] OR ["Alex"]
+title: Title
+author: Dana/Alex
 tags: ["TAG1, TAG2, TAG3"]
 publish: true/false
 ---
