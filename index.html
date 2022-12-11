@@ -13,7 +13,17 @@ layout: default
   {% for post in site.posts limit:1 %}
 
       <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-      
+ 
+<!-- author icons -->
+
+{% if page.author == 'Dana' %}
+<img src="/assets/img/icon_d.png" width="64" align="left">
+{% endif %}
+
+{% if page.author == 'Alex' %}
+<img src="/assets/img/icon_d.png" width="64" align="left">
+{% endif %}
+
         {{ post.excerpt }}
 
       <small><a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Permalink</a> | Date: {{ post.date | date: "%D" }} | Author: {{ post.author }}</small>
