@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: post
 title: Title
 author: Dana/Alex
 tags: ["TAG1, TAG2, TAG3"]
