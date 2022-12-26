@@ -7,9 +7,6 @@ theme: jekyll-theme-minimal
 plugins: 
   - jekyll-feed
   - jekyll-paginate
-gems:
-  - jekyll-feed
-  - jekyll-paginate
 collections:
   - events:
       title: true
