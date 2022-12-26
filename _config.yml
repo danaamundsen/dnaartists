@@ -10,6 +10,3 @@ plugins:
 collections:
   - events:
       title: true
-      
-      output: false
-      #permalink: /:collection/:name/
