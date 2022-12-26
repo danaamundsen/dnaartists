@@ -8,7 +8,7 @@ permalink: /events/
 <ul>
   {% for events in site.events %}
   <li>
-    <a href="{{ event.url }}">{{ event.title }}</a> {{ event.date | date: "%D" }} 
+    {{ event.title }}
   </li>
   {% endfor %}
 </ul>
