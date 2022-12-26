@@ -9,5 +9,7 @@ plugins:
   - jekyll-paginate
 collections:
   events:
-    name: true
     output: true
+    permalink: /:collection/:name/
+    name: true
+
