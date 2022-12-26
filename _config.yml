@@ -10,3 +10,8 @@ plugins:
 gems:
   - jekyll-feed
   - jekyll-paginate
+collections:
+  events:
+    output: true
+    permalink: /events/:path/
+    title: Events
