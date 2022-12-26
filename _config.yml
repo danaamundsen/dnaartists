@@ -12,6 +12,5 @@ gems:
   - jekyll-paginate
 collections:
   events:
-    output: true
-    permalink: /:collection/:name/
-    title: Events
+    output: false
+    #permalink: /:collection/:name/
