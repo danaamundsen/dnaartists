@@ -13,5 +13,5 @@ gems:
 collections:
   events:
     output: true
-    permalink: /events/:path/
+    permalink: /:collection/:name/
     title: Events
