@@ -5,10 +5,7 @@ permalink: /events/
 
 <h2>Events</h2>
 
-<ul>
-  {% for events in site.events %}
-  <li>
-    {{ event.title }}
-  </li>
-  {% endfor %}
-</ul>
+{% for events in site.events %}
+<h3>{{ event.title }}</h3>
+{{ staff_member.content | markdownify }}
+{% endfor %}
