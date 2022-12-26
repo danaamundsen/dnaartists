@@ -8,6 +8,6 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
 collections:
-  - events:
+  events:
     name: true
     output: true
