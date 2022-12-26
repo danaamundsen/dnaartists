@@ -11,5 +11,7 @@ collections:
   events:
     output: true
     permalink: /:collection/:name/
-    name: true
+    title: true
+    date: true
+    location: true
 
