@@ -6,6 +6,6 @@ permalink: /events/
 <h2>Events</h2>
 
 {% for events in site.events %}
-<h3>{{ event.title }}</h3>
-{{ staff_member.content | markdownify }}
+<h3>{{ event.name }}</h3>
+{{ event.content | markdownify }}
 {% endfor %}
