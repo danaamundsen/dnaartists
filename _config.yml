@@ -11,6 +11,8 @@ gems:
   - jekyll-feed
   - jekyll-paginate
 collections:
-  events:
-    output: false
-    #permalink: /:collection/:name/
+  - events:
+      title: true
+      
+      output: false
+      #permalink: /:collection/:name/
