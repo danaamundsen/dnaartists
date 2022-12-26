@@ -9,4 +9,5 @@ plugins:
   - jekyll-paginate
 collections:
   - events:
-      title: true
+    name: true
+    output: true
