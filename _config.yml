@@ -9,7 +9,7 @@ plugins:
   - jekyll-paginate
 collections:
   events:
-    output: true
+    output: false
     title: true
     date: true
     location: true
