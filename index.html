@@ -10,7 +10,7 @@ layout: default
 
 <h1>Upcoming Event</h1>
   
-  {% for post in site.events limit:1 %}
+  {% for event in site.events limit:1 %}
 
       <h2>{{ event.title }}</h2>
       <p><b>Date:</b> {{ event.event_date | date: "%a, %b %d, %Y" }}
