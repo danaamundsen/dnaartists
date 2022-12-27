@@ -8,9 +8,11 @@ permalink: /events/
 {% for event in site.events %}
 
 <h3>{{ event.title }}</h3>
-<p>Date: {{ event.date }}
-<br>Location: {{event.location }}
+<p>Date: {{ event.date | "%a, %b %d, %Y }}
+<br>Location: {{ event.location }}
 
 {{ event.content }}
 
+<hr></hr>
+  
 {% endfor %}
