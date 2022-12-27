@@ -7,7 +7,7 @@ permalink: /events/
 
 {% for event in site.events %}
 
-{% if publish == true %}
+{% if publish == 'true' %}
 
 <h2>{{ event.title }}</h2>
 <p><b>Date:</b> {{ event.date | date: "%a, %b %d, %Y" }}
