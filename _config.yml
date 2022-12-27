@@ -13,4 +13,5 @@ collections:
     title: true
     date: true
     location: true
+    sort_by: date
 
