@@ -14,5 +14,5 @@ collections:
     date: true
     location: true
     address: true
-    publish: true
+    show: true
 
