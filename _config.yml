@@ -15,6 +15,6 @@ collections:
     location: true
     address: true
     order:
-      - 2022-zinecinnati.md
       - 2023-detroit-zine-fest.md
+      - 2022-zinecinnati.md
 
