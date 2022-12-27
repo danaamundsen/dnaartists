@@ -9,9 +9,6 @@ plugins:
   - jekyll-paginate
 collections:
   events:
-    order:
-      - 2023-detroit-zine-fest.md
-      - 2022-zinecinnati.md
     output: true
     title: true
     date: true
