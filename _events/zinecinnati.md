@@ -1,10 +1,10 @@
 ---
 layout: event
 title: Zinecinnati
-date: 2022-10-22
+date: 2022-10-10
+event_date: 2022-10-22
 location: Clifton Cultural Arts Center
 address: 2728 Short Vine St.
-show: false
 ---
 
 DnA was not actually at zinecinnati 2022. This is jus ta placeholder to test some things with.  
