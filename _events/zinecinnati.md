@@ -1,7 +1,7 @@
 ---
 layout: event
 title: Zinecinnati
-date: 2022-10-22
+date: 2024-10-22
 location: Clifton Cultural Arts Center
 address: 2728 Short Vine St.
 ---
