@@ -2,7 +2,8 @@
 layout: event
 title:  Detroit Zine Fest
 date: 2023-03-04
-location: The Jam Handy (2900 E Grand Blvd.)
+location: The Jam Handy
+address: 2900 E Grand Blvd.
 publish: true
 ---
 
