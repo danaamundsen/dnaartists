@@ -11,8 +11,8 @@ collections:
   events:
     output: false
     title: true
-    date: true
+    event_date: true
     location: true
     address: true
-    sort_by: date
+    sort_by: event_date
 
