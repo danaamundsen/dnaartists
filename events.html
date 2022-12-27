@@ -5,10 +5,10 @@ permalink: /events/
 
 <h1>Events</h1>
 
-{% for event in site.events | sort: 'event_date' %}
+{% for event in site.events | sort: 'date' %}
 
 <h2>{{ event.title }}</h2>
-<p><b>Date:</b> {{ event.event_date | date: "%a, %b %d, %Y" }}
+<p><b>Date:</b> {{ event.date | date: "%a, %b %d, %Y" }}
 <br><b>Location:</b> {{ event.location }}
 <br><b>Address:</b> {{ event.address }}</p>
 
