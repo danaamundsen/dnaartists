@@ -12,6 +12,7 @@ collections:
     output: false
     title: true
     date: true
+    time: true
     location: true
     address: true
 
