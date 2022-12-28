@@ -11,7 +11,7 @@ layout: default
 <h1>Upcoming Event</h1>
   {% assign esize = site.events | size %}
   {% if esize == 0 %} 
-    <p>No upcoming events...Check back soon.</p>
+    <p>No upcoming events. Check back soon.</p>
   {% else %}
   {% for event in site.events limit:1 %}
 
