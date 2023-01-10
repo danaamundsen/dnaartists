@@ -116,7 +116,11 @@ li a.menu_item {
 }
 
 @media print, screen and (max-width: 960px) {
- section{
+  header {
+    margin: auto;
+  }
+  
+  section{
    border: 0px;
   }
   
