@@ -90,18 +90,18 @@ li a.menu_item:active {
 @media print, screen and (max-width: 1060px) {
 
   div.wrapper {
-    width:500px;
-    margin:0;
+    width: 500px;
+    margin: auto;
   }
 
   header, section, footer {
-    float:none;
-    position:static;
-    width:auto;
+    float: none;
+    position: static;
+    width: auto;
   }
 
   header {
-    padding-right:320px;
+    padding-right:0px;
   }
 
   section {
@@ -115,9 +115,7 @@ li a.menu_item:active {
   }
 
   header ul {
-    position:absolute;
-    right:50px;
-    top:52px;
+    position: static;
   }
 }
 
