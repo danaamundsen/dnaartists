@@ -158,16 +158,49 @@ header ul {
 
 
 @media print, screen and (max-width: 720px) {
-  
-section{
-  border: 0px;
+  body {
+    word-wrap:break-word;
   }
-  
+
+  header {
+    padding:0;
+  }
+
+  header ul, header p.view {
+    position:static;
+  }
+
+  pre, code {
+    word-wrap:normal;
+  }
+
+  section {
+    border: 0px;
+  }
 }
+
 @media print, screen and (max-width: 480px) {
-  
-section {
-  border: 0px;
+  body {
+    padding:15px;
+  }
+
+  header ul {
+    width:99%;
+  }
+
+  header li, header ul li + li + li {
+    width:33%;
   }
   
+    section {
+    border: 0px;
+  }
+}
+
+@media print {
+  body {
+    padding:0.4in;
+    font-size:12pt;
+    color:#444;
+  }
 }
