@@ -101,9 +101,20 @@ section {
   width: 375px;
 }
 
+}
+
 @media print, screen and (max-width: 960px) {
 
+wrapper {
+  width: 600px;
+}
+  
+header, footer {
+  width: 200px;
+}
+  
 section {
+  width: 375px;
   border: 0px;
 } 
   
