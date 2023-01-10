@@ -97,11 +97,16 @@ body {
   width: 800px;
 }
   
-header, footer {
+header {
   width: 250px;
-  padding: 0px;
+  padding-top: 0px;
 }
-  
+
+footer {
+  width: 250px;
+  padding-bottom: 0px;
+}
+
 section {
   width: 525px;
 }
