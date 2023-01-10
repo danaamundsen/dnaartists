@@ -116,12 +116,12 @@ li a.menu_item {
 }
 
 @media print, screen and (max-width: 960px) {
-  header {
-    margin: auto;
+  .wrapper {
+    width: 800px;
   }
   
   section{
-   border: 0px;
+    border: 0px;
   }
   
   header ul {
