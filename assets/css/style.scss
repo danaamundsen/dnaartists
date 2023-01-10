@@ -116,14 +116,11 @@ li a.menu_item {
 }
 
 @media print, screen and (max-width: 960px) {
-  .wrapper {
+  div.wrapper {
     width: 720px;
     margin: auto;
   }
-  header, section, footer {
-    width: auto;
-    position: static;
-  }
+
   section{
     border: 0px;
   }
