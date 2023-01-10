@@ -87,6 +87,10 @@ li a.menu_item:active {
   color: #FFF;
 }
 
+.sns {
+  width: 32px;
+}
+
 @media print, screen and (max-width: 1060px) {
 
 body {
@@ -111,6 +115,10 @@ section {
   width: 525px;
 }
 
+.sns {
+  width: 24px;
+}
+  
 }
 
 @media print, screen and (max-width: 960px) {
