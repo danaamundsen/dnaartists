@@ -128,14 +128,27 @@ li a.menu_item {
 
 @media print, screen and (max-width: 960px) {
 
+div.wrapper {
+    width:auto;
+    margin:0;
+  }
+
+  header, section, footer {
+    float:none;
+    position:static;
+    width:auto;
+  }
+
+  section {
+    border:0px solid #e5e5e5;
+    padding:20px 0;
+    margin:0 0 20px;
+  }
+  
 header {
   width: 300px;
   margin: auto;
 }
-
-section {
-  border: 0px;
-} 
   
 header ul {
     position:static;
