@@ -128,6 +128,10 @@ li a.menu_item {
 
 @media print, screen and (max-width: 960px) {
 
+  body {
+  padding: 50px;
+}
+  
 div.wrapper {
     width:auto;
     margin:0;
@@ -155,6 +159,7 @@ header ul {
 @media print, screen and (max-width: 720px) {
   body {
     word-wrap:break-word;
+    padding: 50px;
   }
 
   header {
