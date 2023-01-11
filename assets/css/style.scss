@@ -91,32 +91,13 @@ li a.menu_item:active {
   width: 24px;
 }
 
-/* media print, screen and (max-width: 1060px) {
-
-body {
-  padding: 0px;
+media print, screen and (max-width: 1060px) {
+  body {
+    padding: 0px;
+  }
 }
-  
-header {
-  padding-top: 0px;
-}
-
-footer {
-  padding-bottom: 0px;
-}
-  
-} */
 
 @media print, screen and (max-width: 960px) {
-  div.wrapper {
-    width: 720px;
-    margin: auto;
-  }
-
-  header {
-    padding-right: 0px;
-  }
-  
   section{
     border: 0px;
   }
