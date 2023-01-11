@@ -19,6 +19,7 @@ collections:
     output: true
     title: true
     date: true
+    author: true
     img: true
     desc: true
     
