@@ -1,8 +1,8 @@
 ---
 layout: publication
 title: Waiter Cat
-date: 
-author:
+date: 2023-01-11
+author: Dana
 img:
 desc:
 ---
