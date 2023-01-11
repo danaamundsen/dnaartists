@@ -91,7 +91,7 @@ li a.menu_item:active {
   width: 24px;
 }
 
-media print, screen and (max-width: 1060px) {
+@media print, screen and (max-width: 1060px) {
   body {
     padding: 0px;
   }
