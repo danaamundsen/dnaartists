@@ -67,7 +67,7 @@ ul.menu {
 li a.menu_item {
   display: block;
   text-align: center;
-  padding: 8px;
+  padding: 4px;
   margin: 3px;
   color: #00BBE0;
   font-weight: 600;
@@ -88,10 +88,10 @@ li a.menu_item:active {
 }
 
 .sns {
-  width: 32px;
+  width: 24px;
 }
 
-@media print, screen and (max-width: 1060px) {
+/* media print, screen and (max-width: 1060px) {
 
 body {
   padding: 0px;
@@ -104,16 +104,8 @@ header {
 footer {
   padding-bottom: 0px;
 }
-
-li a.menu_item {
-  padding: 4px;
-}
   
-.sns {
-  width: 24px;
-}
-  
-}
+} */
 
 @media print, screen and (max-width: 960px) {
   div.wrapper {
