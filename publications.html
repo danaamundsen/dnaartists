@@ -1,0 +1,12 @@
+---
+layout: default
+permalink: /publications/
+---
+
+<h1>Publications</h1>
+
+<ul>
+{% for event in site.publications %}
+  <li><a href="{{ publication.url }}">{{ publication.title }}</a></li>
+{% endfor %}
+</ul>
