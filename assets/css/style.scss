@@ -114,17 +114,7 @@ li a.menu_item:active {
   height: 18px;
 }
 
-@media print, screen and (max-width: 1060px) {
-  body {
-    padding: 0px;
-  }
-}
-
 @media print, screen and (max-width: 960px) {
-  body{
-    padding: 50px 10px;
-  }
-  
   section{
     border: 0px;
   }
