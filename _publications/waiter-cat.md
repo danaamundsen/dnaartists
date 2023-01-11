@@ -9,6 +9,8 @@ desc: A photo of Waiter Cat, a zine by Dana Amundsen
 
 <a href="/assets/img/publications/waiter-cat_dana_4.jpg"><img src="/assets/img/publications/waiter-cat_dana_4.jpg" alt="A photo of Waiter Cat, a zine by Dana Amundsen"></a>
 
+{% include image-gallery.html folder="/assets/img/publications" %}
+
 Waiter Cat is a humorous 8 page zine inspired by Dana's time working as a waitress in Louisville, KY, and her cat Kiki who likes to hang out with Dana in the kitchen.
 
 <a href="/assets/img/publications/waiter-cat_dana_5.jpg"><img src="/assets/img/publications/waiter-cat_dana_5.jpg" alt="A photo of Waiter Cat, a zine by Dana Amundsen"></a>
