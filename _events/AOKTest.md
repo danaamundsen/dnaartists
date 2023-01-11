@@ -1,9 +1,0 @@
----
-title: Alex's house party
-date: 2023-01-11
-time: All day babbyyyy
-location: Your mom's house
-address: You should know it, wow. 
----
-
-test test [test](http://www.dnaartists.net/2022/12/08/dzf-acceptance.html)
