@@ -60,6 +60,29 @@ a:hover, a:active {
 
 ul.menu {
   list-style-type: none;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+li a.menu_item {
+  float: left;
+  display: block;
+  text-align: center;
+  padding: 3px 8px;
+  font-style: italic;
+  text-decoration: underline;
+  color: #00BBE0;
+}
+
+li a.menu_item:hover {
+  text-decoration: none;
+  background-color: #FEE440;
+  color: #fff;
+}
+
+/* ul.menu {
+  list-style-type: none;
   margin: 0;
   padding: 0;
 }
@@ -85,7 +108,7 @@ li a.menu_item:hover {
 li a.menu_item:active {
   background-color: #AD5DE5;
   color: #FFF;
-}
+} */
 
 .sns {
   width: 24px;
