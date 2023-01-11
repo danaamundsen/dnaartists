@@ -6,4 +6,4 @@ location: Your mom's house
 address: You should know it, wow. 
 ---
 
-test test [test] (http://www.dnaartists.net/2022/12/08/dzf-acceptance.html)
+test test [test](http://www.dnaartists.net/2022/12/08/dzf-acceptance.html)
