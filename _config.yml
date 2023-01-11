@@ -16,4 +16,4 @@ collections:
     location: true
     address: true
 
-post_img: /assets/img/post/
+# post_img: /assets/img/post/
