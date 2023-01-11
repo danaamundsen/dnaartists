@@ -15,5 +15,11 @@ collections:
     time: true
     location: true
     address: true
-
+  publications:
+    output: true
+    title: true
+    date: true
+    img: true
+    desc: true
+    
 # post_img: /assets/img/post/
