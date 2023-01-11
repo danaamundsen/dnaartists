@@ -81,34 +81,21 @@ li a.menu_item:hover {
   color: #fff;
 }
 
-/* ul.menu {
+ul.pub {
   list-style-type: none;
+  overflow: hidden;
   margin: 0;
   padding: 0;
 }
 
-li a.menu_item {
+li a.pub_item {
+  float: left;
   display: block;
-  text-align: center;
-  padding: 4px;
-  margin: 3px;
-  color: #00BBE0;
-  font-weight: 600;
-  border: 3px solid #00BBE0;
-  text-decoration: none;
-  border-radius: 6px;
 }
 
-li a.menu_item:hover {
-  background-color: #FEE440;
-  color: #FFF;
-  border: 3px solid #FEE440;
+.thumb {
+  border-radius: 5px;
 }
-
-li a.menu_item:active {
-  background-color: #AD5DE5;
-  color: #FFF;
-} */
 
 .sns {
   height: 18px;
