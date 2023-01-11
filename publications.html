@@ -5,8 +5,23 @@ permalink: /publications/
 
 <h1>Publications</h1>
 
-<ul>
+<ul class="pub">
 {% for publication in site.publications %}
-  <li><a href="{{ publication.url }}">{{ publication.title }}</a></li>
+  <li><a href="{{ publication.url }}" title="{{ publication.title }}"><img class="thumb" src="http://images.weserv.nl/?url=http://www.dnaartists.net{{ publication.img }}&w=100&h=100&fit=cover&output=png" alt="{{ publication.desc }}"></a></li>
 {% endfor %}
 </ul>
+
+{% for tag in site.tags %}
+    <p id="{{ tag[0] | slugify }}"><b>#{{ tag[0] }}</b></p>
+
+	<p>
+       {% for post in tag[1] %}
+		{% if post.image %}
+	<a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }} | {{ post.date | date: "%D" }}"><img src="http://www.icefairy.net/artlog/thumb/{{ post.image }}" class="thumb" alt="{{ post.desc }}"></a> 
+      {% else %}
+	<a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }} | {{ post.date | date: "%D" }}"><img src="http://www.icefairy.net/meta/icefairy.png" class="thumb" alt="{{ post.desc }}"></a>
+	{% endif %}
+	{% endfor %}
+	</p>
+
+    {% endfor %}
