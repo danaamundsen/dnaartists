@@ -7,6 +7,15 @@ layout: default
 
 <small>Author: {{ page.author }}
 <br>Date: {{ page.date | date: "%D" }}</small>
+<br>Tags: {% if post %}
+    {% assign tags = post.tags %}
+  {% else %}
+    {% assign tags = page.tags %}
+  {% endif %}
+  {% for tag in tags %}
+  <a href="{{ site.baseurl }}/tags/#{{ tag | slugify }}">#{{ tag }}</a>
+  {% unless forloop.last %}&nbsp;{% endunless %}
+  {% endfor %}
 
 <p></p>
 
