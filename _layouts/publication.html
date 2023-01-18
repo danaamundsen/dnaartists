@@ -4,10 +4,12 @@ layout: default
 
 <h2>{{ page.title }}</h2>
 
-<p>Author: {{ page.author }}
+<p><small>Author: {{ page.author }}</small></p>
 
-{{content}}
-  
+<p>{{content}}
+
+<p><a href="/publications/" title="Return to publications page">Return to publications page</a></p>
+
 <!-- paginate -->
 <p align="right">
     {% if page.previous.url %}
