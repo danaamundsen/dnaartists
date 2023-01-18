@@ -8,10 +8,10 @@ layout: default
 
 <p>{{content}}
 
-<p><a href="/publications/" title="Return to publications page">Return to publications page</a></p>
+<p><small><a href="/publications/" title="Return to publications page">Return to publications page</a></small</p>
 
 <!-- paginate -->
-<p align="right">
+<p align="right"><small>
     {% if page.previous.url %}
     <a href="{{ page.previous.url }}">{{page.previous.title}}</a> / 
     {% endif %}
@@ -19,4 +19,4 @@ layout: default
     {% if page.next.url %}
     <a href="{{ page.next.url }}">{{page.next.title}}</a>
     {% endif %}
-</p>
+</small></p>
