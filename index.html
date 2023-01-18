@@ -45,7 +45,15 @@ layout: default
 
       {{ post.excerpt }}
 
-      <small><a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Permalink</a> | Date: {{ post.date | date: "%D" }} | Author: {{ post.author }}</small>
+      <small><a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Permalink</a> | Date: {{ post.date | date: "%D" }} | Author: {{ post.author }} | Tags: {% if post %}
+    {% assign tags = post.tags %}
+  {% else %}
+    {% assign tags = page.tags %}
+  {% endif %}
+  {% for tag in tags %}
+  <a href="{{ site.baseurl }}/tags/#{{ tag | slugify }}">#{{ tag }}</a>
+  {% unless forloop.last %}&nbsp;{% endunless %}
+  {% endfor %}</small>
 
    {% endfor %}
 
