@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "FYI Fairy Tales, Volume 1: Sleeping Beauty"
+title: ["FYI Fairy Tales, Volume 1: Sleeping Beauty"]
 date: 2022-10-19
 author: Alex
 img: /assets/img/publications/fyi-sleeping-beauty_alex_1.png
