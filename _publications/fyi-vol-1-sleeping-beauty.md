@@ -4,7 +4,7 @@ title: ["FYI Fairy Tales, Volume 1: Sleeping Beauty"]
 date: 2022-10-19
 author: Alex
 img: /assets/img/publications/fyi-sleeping-beauty_alex_1.png
-desc: The cover of FYI Fairy Tales Issue 1: Sleeping Beauty
+desc: ["The cover of FYI Fairy Tales Issue 1: Sleeping Beauty"]
 ---
 
 *FYI Fairy Tales, Volume 1: Sleeping Beauty* focuses on notable variants of the Sleeping Beauty fairy tale, featuring a sassy plot summary of *Sun, Moon, and Talia* by Giambattista Basile (considered to be the first recorded Sleeping Beauty tale). Use this bite-sized zine to learn more about the origins of this majorly messed up story recorded 325 years before Disney’s animated film!
