@@ -1,7 +1,7 @@
 ---
 layout: publication
 title: Cat Butts
-date: 2023-01-11
+date: 2023-02-4
 author: Dana
 img: /assets/img/publications/cat-butts_dana_1.png
 desc: A photo of Cat Butts, a zine by Dana Amundsen
