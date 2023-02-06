@@ -4,12 +4,15 @@ layout: default
 
 <h2>{{ page.title }}</h2>
 
-<p>Date: {{ page.date | date: "%D" }}</p>
-
-<p></p>
+<p><b>Date:</b> {{ page.date | date: "%a, %b %d, %Y" }}
+<br><b>Time:</b> {{ page.time }}
+<br><b>Location:</b> {{ page.location }}
+<br><b>Address:</b> {{ page.address }}</p>
 
 {{content}}
 
+
+<p><a href="/events/" title="Return to Events page">Return to events page</a></p>
 <!-- paginate -->
 <p align="right">
     {% if page.previous.url %}
