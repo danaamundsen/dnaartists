@@ -24,8 +24,10 @@ layout: default
       {{ event.content }}
 
    {% endfor %}
-      <hr></hr>
   {% endif %}  
+
+<p><center><a href="http://www.dnaartists.net/events/">Click here to see all upcoming events.</a></center></p>
+      <hr></hr>
 
 <h1>Most Recent Update</h1>
   
@@ -45,7 +47,8 @@ layout: default
 
       {{ post.excerpt }}
 
-      <small><a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Permalink</a> | Date: {{ post.date | date: "%D" }} | Author: {{ post.author }} | Tags: {% if post %}
+<p><center><a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Click here to read more.</a>
+      <p>Date: {{ post.date | date: "%D" }} | Author: {{ post.author }} | Tags: {% if post %}
     {% assign tags = post.tags %}
   {% else %}
     {% assign tags = page.tags %}
@@ -53,8 +56,8 @@ layout: default
   {% for tag in tags %}
   <a href="{{ site.baseurl }}/tags/#{{ tag | slugify }}">#{{ tag }}</a>
   {% unless forloop.last %}&nbsp;{% endunless %}
-  {% endfor %}</small>
+        {% endfor %}</p>
 
    {% endfor %}
-
+  <p><center><a href="http://www.dnaartists.net/blog/">Click here to see all blog posts.</a></center></p>
 
