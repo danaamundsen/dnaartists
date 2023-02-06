@@ -15,6 +15,7 @@ collections:
     output: true
     title: true
     date: true
+    event_date: true
     time: true
     location: true
     address: true
