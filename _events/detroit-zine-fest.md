@@ -13,9 +13,7 @@ We will be tabling at Detroit Zine Fest this year. DnA will be selling zines, pr
 
 *[Detroit Zine Fest Ko-Fi](https://ko-fi.com/detroitzinefest)*
 
-<!--more-->
-
 We will be situated at table 28, between All Sorrows and Maya Scar, and Perpetual Flights Studio.  
-<a href="/assets/img/events/detroitzinefesttable.png" title="Venue Table Map"><img src="/assets/img/events/detroitzinefesttable.png" alt="A map showing the layout of the venue, with a large DnA logo pointing to table 28."></a>
+<a href="/assets/img/events/detroitzinefesttable.png" title="Venue Table Map"><img src="/assets/img/events/detroitzinefesttable.png" width="150" alt="A map showing the layout of the venue, with a large DnA logo pointing to table 28."></a>
 
 Check the [Detroit Zine Fest instagram](https://www.instagram.com/detzinefest/) and [ko-fi](https://ko-fi.com/detroitzinefest) for the most up to date information about the event.
