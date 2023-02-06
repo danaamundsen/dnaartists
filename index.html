@@ -8,6 +8,27 @@ layout: default
 
 <hr></hr>
 
+<h1>Recent Updates</h1>
+
+<ul>
+  {% for post in site.posts limit:5 %}
+  
+<li><a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%D" }} - {% if post %}
+    {% assign tags = post.tags %}
+  {% else %}
+    {% assign tags = page.tags %}
+  {% endif %}
+  {% for tag in tags %}
+  <a href="{{ site.baseurl }}/blog/tags/#{{ tag | slugify }}">#{{ tag }}</a>
+  {% unless forloop.last %},{% endunless %}
+  {% endfor %}</li>
+      
+   {% endfor %}
+</ul>
+  <p><center><a href="http://www.dnaartists.net/blog/">Click here to see all blog posts.</a></center></p>
+
+<hr></hr>
+
 <h1>Upcoming Event</h1>
   {% assign esize = site.events | size %}
   {% if esize == 0 %} 
@@ -27,24 +48,4 @@ layout: default
   {% endif %}  
 
 <p><center><a href="http://www.dnaartists.net/events/">Click here to see all upcoming events.</a></center></p>
-      <hr></hr>
-
-<h1>Recent Updates</h1>
-
-<ul>
-  {% for post in site.posts limit:5 %}
-  
-<li><a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%D" }} - {% if post %}
-    {% assign tags = post.tags %}
-  {% else %}
-    {% assign tags = page.tags %}
-  {% endif %}
-  {% for tag in tags %}
-  <a href="{{ site.baseurl }}/blog/tags/#{{ tag | slugify }}">#{{ tag }}</a>
-  {% unless forloop.last %},{% endunless %}
-  {% endfor %}</li>
-      
-   {% endfor %}
-</ul>
-  <p><center><a href="http://www.dnaartists.net/blog/">Click here to see all blog posts.</a></center></p>
 
