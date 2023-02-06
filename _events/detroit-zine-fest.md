@@ -1,10 +1,10 @@
 ---
+layout: event
 title: Detroit Zine Fest
 date: 2023-03-04
 time: 11AM to 7 PM
 location: The Jam Handy
 address: 2900 E Grand Blvd
-permalink: /detroit-zine-fest/
 ---
 
 We will be tabling at Detroit Zine Fest this year. DnA will be selling zines, prints, and stickers as well as collecting submissions for a collaborative zine on friendship from the atendees. We are excited to be a part of this event and can't wait to meet the other artists and guests.
