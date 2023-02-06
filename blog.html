@@ -22,7 +22,9 @@ permalink: /blog/
 
         {{ post.excerpt }}
 
-      <small><a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Permalink</a> | Date: {{ post.date | date: "%D" }} | Author: {{ post.author }} | Tags: {% if post %}
+<p><center><a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Click here to read more.</a></center></p>
+
+      <p>Date: {{ post.date | date: "%D" }} | Author: {{ post.author }} | Tags: {% if post %}
     {% assign tags = post.tags %}
   {% else %}
     {% assign tags = page.tags %}
@@ -30,7 +32,7 @@ permalink: /blog/
   {% for tag in tags %}
   <a href="{{ site.baseurl }}/tags/#{{ tag | slugify }}">#{{ tag }}</a>
   {% unless forloop.last %}&nbsp;{% endunless %}
-  {% endfor %}</small>
+  {% endfor %}</p>
 
   <hr></hr>
 
