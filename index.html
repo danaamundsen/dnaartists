@@ -37,7 +37,7 @@ layout: default
   {% for event in site.events limit:1 %}
 
     <h2><a href="{{ event.url }}">{{ event.title }}</a></h2>
-      <p><b>Date:</b> {{ event.date | date: "%a, %b %d, %Y" }}
+      <p><b>Date:</b> {{ event.event_date | date: "%a, %b %d, %Y" }}
       <br><b>Time:</b> {{ event.time }}
       <br><b>Location:</b> {{ event.location }}
       <br><b>Address:</b> {{ event.address }}</p>
