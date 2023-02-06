@@ -47,7 +47,7 @@ layout: default
 
       {{ post.excerpt }}
 
-<p><center><a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Click here to read more.</a>
+<p><center><a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Click here to read more.</a></center></p>
       <p>Date: {{ post.date | date: "%D" }} | Author: {{ post.author }} | Tags: {% if post %}
     {% assign tags = post.tags %}
   {% else %}
