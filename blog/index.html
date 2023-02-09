@@ -9,9 +9,9 @@ title: Blog
 
       <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
 
-<p>Date: {{ post.date | date: "%D" }}
-  <br>Author: {{ post.author }}
-  <br>Tags: {% if post %}
+<p><b>Date:</b> {{ post.date | date: "%D" }}
+  <br><b>Author:</b> {{ post.author }}
+  <br><b>Tags:</b> {% if post %}
     {% assign tags = post.tags %}
   {% else %}
     {% assign tags = page.tags %}
