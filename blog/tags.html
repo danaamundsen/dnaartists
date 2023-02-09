@@ -19,7 +19,7 @@ permalink: /blog/tags/
 
 	<ul>
     {% for post in tag[1] %}
-	     <li><a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }} - {{ post.date | date: "%D" }}">{{ post.title }}</a> - {{ post.date | date: "%D" }}</li>
+	     <li><a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }} - {{ post.date | date: "%D" }}">{{ post.title }}</a></li>
 	  {% endfor %}
 	</ul>
 
