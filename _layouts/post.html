@@ -5,9 +5,9 @@ layout: default
 
 <h2>{{ page.title }}</h2>
 
-<p>Author: {{ page.author }}
-<br>Date: {{ page.date | date: "%D" }}
-<br>Tags: {% if post %}
+<p><b>Author:</b> {{ page.author }}
+<br><b>Date:</b> {{ page.date | date: "%D" }}
+<br><b>Tags:</b> {% if post %}
     {% assign tags = post.tags %}
   {% else %}
     {% assign tags = page.tags %}
