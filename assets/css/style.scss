@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 
-@import url('https://fonts.googleapis.com/css2?family=Gochi+Hand&family=Nunito:wght@400;600;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gochi+Hand&family=Nunito:wght@400;700;900&display=swap');
 
 body {
   font-family: 'Nunito', sans-serif;
@@ -34,7 +34,7 @@ h3, h4, h5, h6 {
 
 a {
   color: #00BBE0;
-  font-weight: 600;
+  font-weight: 700;
   text-decoration: underline;
 }
 
@@ -51,7 +51,7 @@ h2 a {
 
 a:hover, a:active {
   color: #FEE440;
-  font-weight: 600;
+  font-weight: 700;
   text-decoration: none;
 }
 
@@ -88,7 +88,7 @@ li a.submenu_item {
   text-align: center;
   padding: 3px 8px;
   font-style: italic;
-  font-weight: 600;
+  font-weight: 700;
   text-decoration: underline;
   color: #00BBE0;
 }
@@ -112,7 +112,7 @@ li a.tag_name {
   text-align: center;
   padding: 3px 8px;
   font-style: italic;
-  font-weight: normal;
+  font-weight: 700;
   text-decoration: underline;
   color: #00BBE0;
 }
