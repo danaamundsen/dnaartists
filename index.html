@@ -41,9 +41,7 @@ layout: default
       <br><b>Time:</b> {{ event.time }}
       <br><b>Location:</b> {{ event.location }}
       <br><b>Address:</b> {{ event.address }}</p>
-
-      {{ event.excerpt }}
-
+<br><a href="{{ event.url }}">click here for more details</a>
    {% endfor %}
   {% endif %}  
 
