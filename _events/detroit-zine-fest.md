@@ -8,7 +8,7 @@ location: The Jam Handy
 address: 2900 E Grand Blvd
 ---
 
-We will be tabling at Detroit Zine Fest this year. DnA will be selling zines, prints, and stickers as well as collecting submissions for a collaborative zine on friendship from the atendees. We are excited to be a part of this event and can't wait to meet the other artists and guests.
+We will be tabling at Detroit Zine Fest this year. DnA will be selling zines, prints, and stickers as well as collecting submissions for a collaborative zine on friendship from the attendees. We are excited to be a part of this event and can't wait to meet the other artists and guests.
 
 > The Detroit Zine Fest was founded by Yhasmin & Evie to help highlight and spread the wonderful zine community in Detroit, MI!
 
