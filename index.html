@@ -29,12 +29,12 @@ layout: default
 
 <hr></hr>
 
-<h1>Upcoming Event</h1>
+<h1>Upcoming Events</h1>
   {% assign esize = site.events | size %}
   {% if esize == 0 %} 
     <p>No upcoming events. Check back soon.</p>
   {% else %}
-  {% for event in site.events limit:1 %}
+  {% for event in site.events limit:3 %}
 
     <h2><a href="{{ event.url }}">{{ event.title }}</a></h2>
       <p><b>Date:</b> {{ event.event_date | date: "%a, %b %d, %Y" }}
