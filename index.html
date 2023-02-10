@@ -37,7 +37,7 @@ layout: default
   {% else %}
   {% for event in site.events limit:3 %}
 
-  <li><a href="{{ event.url }}">{{ event.title }}</a><small> - {{ event.event_date }}</small></li>
+  <li><a href="{{ event.url }}">{{ event.title }}</a><small> - {{ event.event_date | date: "%D" }}</small></li>
 
    {% endfor %}
   {% endif %}  
