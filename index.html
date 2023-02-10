@@ -30,20 +30,18 @@ layout: default
 <hr></hr>
 
 <h1>Upcoming Events</h1>
+<ul>
   {% assign esize = site.events | size %}
   {% if esize == 0 %} 
-    <p>No upcoming events. Check back soon.</p>
+    <li>No upcoming events. Check back soon.</li>
   {% else %}
   {% for event in site.events limit:3 %}
 
-    <h2><a href="{{ event.url }}">{{ event.title }}</a></h2>
-      <p><b>Date:</b> {{ event.event_date | date: "%a, %b %d, %Y" }}
-      <br><b>Time:</b> {{ event.time }}
-      <br><b>Location:</b> {{ event.location }}
-      <br><b>Address:</b> {{ event.address }}</p>
-<br><a href="{{ event.url }}">click here for more details</a>
+  <li><a href="{{ event.url }}">{{ event.title }}</a><small> - {{ event.event_date }}</small></li>
+
    {% endfor %}
   {% endif %}  
+</ul>
 
 <p><center><a href="http://www.dnaartists.net/events/"><i>Click here to see all upcoming events.</i></a></center></p>
 
