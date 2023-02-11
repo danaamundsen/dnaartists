@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: DnA 2023 Micro Zines
+title: DnA 2023 Manifesting Micro Zines
 date: 2023_02_10
 author: Alex
 img: /assets/img/publications/23micro_dna_0.png
