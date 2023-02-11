@@ -1,7 +1,7 @@
 ---
 layout: publication
 title: DnA 2023 Micro Zines
-date: 2023-02_10
+date: 2023_02_10
 author: Alex
 img: /assets/img/publications/23micro_dna_0.png
 desc: A photo of two mini zines by Dana and Alex
