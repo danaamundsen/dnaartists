@@ -33,7 +33,7 @@ collections:
     author: true
     img: true
     desc: true
-   dnapublications:
+  dnapublications:
     output: true
     title: true
     date: true
