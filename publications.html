@@ -6,7 +6,13 @@ permalink: /publications/
 
 <h1>Publications</h1>
 
-<h3>DnA</h3>
+<ul class="tag">
+  <li><a href="#DnA" class="tag_name">By DnA</a></li>
+  <li><a href="#Dana" class="tag_name">By Dana</a></li>
+  <li><a href="#Alex" class="tag_name">By Alex</a></li>
+</ul>
+
+<h3 id="DnA">By DnA</h3>
 <ul class="pub">
 {% for dnapublication in site.dnapublications %}
   <li><a class="pub_item" href="{{ dnapublication.url }}" title="{{ dnapublication.title }} - {{ dnapublication.author }}"><img class="thumb" src="http://images.weserv.nl/?url=http://www.dnaartists.net{{ dnapublication.img }}&w=150&h=150&fit=cover&output=png" alt="{{ dnapublication.desc }}"></a></li>
@@ -14,7 +20,7 @@ permalink: /publications/
 </ul>
 <hr></hr>
 
-<h3>Dana</h3>
+<h3 id="Dana">By Dana</h3>
 <ul class="pub">
 {% for danapublication in site.danapublications %}
   <li><a class="pub_item" href="{{ danapublication.url }}" title="{{ danapublication.title }} - {{ danapublication.author }}"><img class="thumb" src="http://images.weserv.nl/?url=http://www.dnaartists.net{{ danapublication.img }}&w=150&h=150&fit=cover&output=png" alt="{{ danapublication.desc }}"></a></li>
@@ -22,7 +28,7 @@ permalink: /publications/
 </ul>
 <hr></hr>
 
-<h3>Alex</h3>
+<h3 id="Alex">By Alex</h3>
 <ul class="pub">
 {% for alexpublication in site.alexpublications %}
   <li><a class="pub_item" href="{{ alexpublication.url }}" title="{{ alexpublication.title }} - {{ alexpublication.author }}"><img class="thumb" src="http://images.weserv.nl/?url=http://www.dnaartists.net{{ alexpublication.img }}&w=150&h=150&fit=cover&output=png" alt="{{ alexpublication.desc }}"></a></li>
