@@ -19,7 +19,21 @@ collections:
     time: true
     location: true
     address: true
-  publications:
+  pub_d:
+    output: true
+    title: true
+    date: true
+    author: true
+    img: true
+    desc: true
+  pub_a:
+    output: true
+    title: true
+    date: true
+    author: true
+    img: true
+    desc: true
+   pub_dna:
     output: true
     title: true
     date: true
