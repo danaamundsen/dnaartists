@@ -6,8 +6,25 @@ permalink: /publications/
 
 <h1>Publications</h1>
 
+<h3>DnA</h3>
 <ul class="pub">
-{% for publication in site.publications %}
-  <li><a class="pub_item" href="{{ publication.url }}" title="{{ publication.title }} - {{ publication.author }}"><img class="thumb" src="http://images.weserv.nl/?url=http://www.dnaartists.net{{ publication.img }}&w=150&h=150&fit=cover&output=png" alt="{{ publication.desc }}"></a></li>
+{% for dnapublication in site.dnapublications %}
+  <li><a class="pub_item" href="{{ dnapublication.url }}" title="{{ dnapublication.title }} - {{ dnapublication.author }}"><img class="thumb" src="http://images.weserv.nl/?url=http://www.dnaartists.net{{ dnapublication.img }}&w=150&h=150&fit=cover&output=png" alt="{{ dnapublication.desc }}"></a></li>
+{% endfor %}
+</ul>
+<hr></hr>
+
+<h3>Dana</h3>
+<ul class="pub">
+{% for danapublication in site.danapublications %}
+  <li><a class="pub_item" href="{{ danapublication.url }}" title="{{ danapublication.title }} - {{ danapublication.author }}"><img class="thumb" src="http://images.weserv.nl/?url=http://www.dnaartists.net{{ danapublication.img }}&w=150&h=150&fit=cover&output=png" alt="{{ danapublication.desc }}"></a></li>
+{% endfor %}
+</ul>
+<hr></hr>
+
+<h3>Alex</h3>
+<ul class="pub">
+{% for alexpublication in site.alexpublications %}
+  <li><a class="pub_item" href="{{ alexpublication.url }}" title="{{ alexpublication.title }} - {{ alexpublication.author }}"><img class="thumb" src="http://images.weserv.nl/?url=http://www.dnaartists.net{{ alexpublication.img }}&w=150&h=150&fit=cover&output=png" alt="{{ alexpublication.desc }}"></a></li>
 {% endfor %}
 </ul>
