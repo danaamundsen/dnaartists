@@ -2,7 +2,7 @@
 layout: publication
 title: DnA 2023 Manifesting Micro Zines
 date: 2023_02_10
-author: Alex
+author: Alex and Dana
 img: /assets/img/publications/23micro_dna_0.png
 desc: A photo of two mini zines by Dana and Alex
 ---
