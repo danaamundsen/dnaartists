@@ -14,7 +14,7 @@ We will be tabling at Detroit Zine Fest this year. DnA will be selling zines, pr
 
 *[Detroit Zine Fest Ko-Fi](https://ko-fi.com/detroitzinefest)*
 
-<!--more-->
+[Hero or Villian Food Truck](https://www.heroorvillaindeli.com/) will be outside the venue selling sandwiches between the hours of 1PM to 5PM, so you can grab lunch or a snack at the event.
 
 We will be situated at table 28, between All Sorrows and Maya Scar, and Perpetual Flights Studio.  
 <a href="/assets/img/events/detroitzinefesttable.png" title="Venue Table Map"><img src="/assets/img/events/detroitzinefesttable.png" width="150" alt="A map showing the layout of the venue, with a large DnA logo pointing to table 28."></a>
