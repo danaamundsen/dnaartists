@@ -11,6 +11,6 @@ desc: ["The cover of FYI Fairy Tales Issue 2:Goldilocks"]
 Works referenced to create this zine are available <a href="https://www.zotero.org/groups/4956587/fyi_fairy_tales/collections/F3TAHRST">here</a> if you want to dig deeper!
 
 *Click photos to enlarge*  
-<a href="/assets/img/publications/fyi-goldilocks_alex_1.png"><img src="/assets/img/publications/fyi-goldilocks_1.png" alt="A photo of the front cover of FYI Fairy Tales, Volume 2: Goldilocks, a zine by Alex O'Keefe" width="100"></a>
+<a href="/assets/img/publications/fyi-goldilocks_alex_1.png"><img src="/assets/img/publications/fyi-goldilocks_alex_1.png" alt="A photo of the front cover of FYI Fairy Tales, Volume 2: Goldilocks, a zine by Alex O'Keefe" width="100"></a>
 <a href="/assets/img/publications/fyi-goldilocks_alex_2.png"><img src="/assets/img/publications/fyi-goldilocks_alex_2.png" alt="A photo of the inside of FYI Fairy Tales, Volume 2: Goldilocks, a zine by Alex O'Keefe" width="100"></a>
 <a href="/assets/img/publications/fyi-goldilocks_alex_3.png"><img src="/assets/img/publications/fyi-goldilocks_alex_3.png" alt="A photo of the back cover of FYI Fairy Tales, Volume 2: Goldilocks, a zine by Alex O'Keefe" width="100" ></a>
