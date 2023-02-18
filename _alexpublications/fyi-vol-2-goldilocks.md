@@ -8,6 +8,7 @@ desc: ["The cover of FYI Fairy Tales Issue 2:Goldilocks"]
 ---
 
 *FYI Fairy Tales, Volume 2: Goldilocks* focuses on notable variants of the Goldilocks fairy tale, featuring a sassy plot summary of *The Three Bears* by Robert Southey (the first written variant of the tale on record until Elizabeth Mure's book was discovered). Use this bite-sized zine to learn more about the human character's evolution from old lady, to little girl, to Goldilocks!
+
 Works referenced to create this zine are available <a href="https://www.zotero.org/groups/4956587/fyi_fairy_tales/collections/F3TAHRST">here</a> if you want to dig deeper!
 
 *Click photos to enlarge*  
