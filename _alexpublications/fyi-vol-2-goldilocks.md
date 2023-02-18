@@ -3,7 +3,7 @@ layout: publication
 title: ["FYI Fairy Tales, Volume 2: Goldilocks"]
 date: 2022-10-20
 author: Alex
-img: /assets/img/a/fyi-sleeping-beauty_alex_0.png
+img: /assets/img/a/fyi-goldilocks_alex_0.png
 desc: ["The cover of FYI Fairy Tales Issue 2:Goldilocks"]
 ---
 
