@@ -2,8 +2,8 @@
 layout: post
 title: Title
 author: Dana/Alex
-tags: ["TAG1, TAG2, TAG3"]
-publish: true/false
+tags: ["TAG1", "TAG2", "TAG3"]
+published: true/false
 ---
 
 Post content goes here.
