@@ -3,7 +3,7 @@ layout: publication
 title: ["FYI Fairy Tales, Volume 1: Sleeping Beauty"]
 date: 2022-10-19
 author: Alex
-img: /assets/img/a/fyi-sleeping-beauty_alex_0.png
+img: /assets/img/publications/fyi-sleeping-beauty_alex_1.png
 desc: ["The cover of FYI Fairy Tales Issue 1: Sleeping Beauty"]
 ---
 
