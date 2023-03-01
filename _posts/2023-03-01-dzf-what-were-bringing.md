@@ -6,7 +6,7 @@ tags: ["detroit zine fest 2023", "events", "goods"]
 published: true
 ---
 
-Hello! Today I am bringing you an update with all of the goods we will be bringing with us to Detroit Zine Fest 2023! Alex and I did a [livestream](https://www.instagram.com/tv/CpOqOhyDCfg/?utm_source=ig_web_copy_link) on [our instagram](https://www.instagram.com/dna.artists/) last night highlighting all of the products weare going to be selling at the fest, but I wanted to share a list of products with prices for those of you that missed the live or dont have time to watch the whole thing but still want a big picture look at what we're taking with us to Detroit. Keep reading to see our goods list and prices.
+Hello! Today I am bringing you an update with all of the goods we will be bringing with us to [Detroit Zine Fest 2023](https://www.dnaartists.net/events/detroit-zine-fest.html)! Alex and I did a [livestream](https://www.instagram.com/tv/CpOqOhyDCfg/?utm_source=ig_web_copy_link) on [our instagram](https://www.instagram.com/dna.artists/) last night highlighting all of the products we are going to be selling at the fest, but I wanted to share a list of products with prices for those of you that missed the live or don't have time to watch the whole thing but still want a big picture look at what we're taking with us to Detroit. Keep reading to see our goods list and prices.
 
 <!--more-->
 
@@ -37,9 +37,11 @@ Hello! Today I am bringing you an update with all of the goods we will be bringi
   - Shiny Butterfly
   - Treat Yourself
   - Frog Sticker
-- Sunny Stickers - $2
 
-## Other
+## Miscellaneous 
 
 - Space Owl Magnet - $6
 - IYKYK Fandom Buttons - 3 for $1
+- Sunny Stickers - $2
+
+We can't wait to hang out with all the other artists and vendors at the event! We will also be making a collaborative zine called PALS! with contributions from guests and attendees. Stop by the table to grab a template and make your contribution. See you on Saturday!
