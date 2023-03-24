@@ -17,4 +17,4 @@ desc: A photo of two mini zines
 <a href="/assets/img/publications/pals-volume-1_3.png"><img src="/assets/img/publications/pals-volume-1_3.png" alt="A photo of the interior of issue 2 showing a drawing of a person with the caption 'Harry (he's in DC) miss you tons! come home to visit soon!' and a moon with the caption 'Love knowing we still exist under the same moon!'" width="100"></a>
 <a href="/assets/img/publications/pals-volume-1_4.png"><img src="/assets/img/publications/pals-volume-1_4.png" alt="A photo of the back cover which ceatures the DnA logo and says 'Thanks for reading! To learn more about this project, check out our website and isntagram.'" width="100"></a>
 
-<a href="[/assets/downloads/pals_volume-1_dzf.pdf](https://drive.google.com/file/d/1KIX2WmVmFYD_QT6nghUsang7alZQQ53p/view?usp=sharing)" title="click here to download the pdf">Click here to download the PDF!</a>
+<a href="https://drive.google.com/file/d/1KIX2WmVmFYD_QT6nghUsang7alZQQ53p/view?usp=sharing" title="click here to download the pdf">Click here to download the PDF!</a>
