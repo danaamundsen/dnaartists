@@ -12,7 +12,7 @@ Volume 1 of our collaborative zine series *Pals!* is officially released! *Pals!
 
 The theme for Volume 1 is 'Missing You,' because at the time I was missing A.OK Art, the other half of DnA. Alex was unable to attend DZF this year because of the snow. I changed the theme last minute as a tribute to her, and we got some very heartfelt messages and drawings from guests.
 
-<a href="/assets/downloads/pals_volume-1_dzf.pdf" title="click here to download the pdf">Click here to download the PDF!</a>
+<a href="https://drive.google.com/file/d/1KIX2WmVmFYD_QT6nghUsang7alZQQ53p/view?usp=sharing" title="click here to download the pdf">Click here to download the PDF!</a>
 
 You can print the pdf and fold the zines yourself at home. These are one page mini zines, so make sure you don't print them double sided! If you need a quick tutorial on how to fold the zine, check out [this 2 minute video showing how it's done by Austin Kleon](https://www.youtube.com/watch?v=ab4O9SWNl9g). I prefer to use scissors to cut mine for a clean edge instead of tearing, but there are no rules. Enjoy the zine, pals!
 
