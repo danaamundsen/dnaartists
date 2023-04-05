@@ -1,11 +1,13 @@
 ---
 layout: post
-title: We will be attending Halftone ZineFest!
+title: We’ll Be Attending Halftone ZineFest!
 author: Dana
-tags: ["events", "halftone zinefest 2023"]
-published: false
+tags: [“halftone zinefest 2023”, “events”]
+published: true
 ---
 
-Hey pals! We are excited to announce that we will be attending Halftone ZineFest in Lexington, KY on May 13th. The event is being held in the 21C fro 11AM-5PM. We will share more information about the fest as we get it.
+Hey pals! We're going to be tabling at [Halftone ZineFest](https://www.halftonezinefest.org/) in Lexington, KY! The event is being held on May 13th from 11 AM - 5 PM in the 21C Hotel. Alex and I are both very excited to attend this event in our home state of Kentucky.
 
-<!--more-->
+We have some new zines and fun products in the works for this event that we cannot wait to share with you. Check out [our events page](http://www.dnaartists.net/events/) for all the details and keep an eye on [our instagram account](http://www.instagram.com/dna.artists/) where we will be previewing our new zines and merch.
+
+Can’t wait to see you all there!
