@@ -11,7 +11,7 @@ permalink: /publications/dabble-in/
 - <a href="#OpenWeb">The Open Web</a>
 - <a href="#ImageRights">Image Rights</a>
 
-<p></p>
+<hr>
 
 <h2 id="OpenWeb">Dabble in The Open Web</h2>
 
@@ -31,6 +31,10 @@ What is The Open Web?* is a 16 page saddle stitched informational zine about the
 <a href="/assets/img/publications/what-is-rss_dana_2.png"><img src="/assets/img/publications/what-is-rss_dana_2.png" alt="A photo showing some of the pages of the zine, featuring typewriter style fonts and black and white photography collages." width="100"></a>
 <a href="/assets/img/publications/what-is-rss.png"><img src="/assets/img/publications/what-is-rss_dana_3.png" alt="A photo of the back of the zine." width="100"></a>
 
-<hr></hr>
+<hr>
 
 <h2 id="ImageRights">Dabble in Image Rights</h2>
+
+### What is Public Domain?
+
+### What is Creative Commons?
