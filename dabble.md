@@ -8,10 +8,8 @@ permalink: /publications/dabble-in/
 
 *Dabble* is a series of informative zines meant to be beginners guides to niche topics. In *Dabble* Dana and Alex explore areas of interest that they want to share with other zinesters, artists, and enthusiasts.
 
-<ul class="tag">
-  <li><a href="#OpenWeb" class="tag_name">The Open Web</a></li>
-  <li><a href="#ImageRights" class="tag_name">Image Rights</a></li>
-</ul>
+- <a href="#OpenWeb">The Open Web</a>
+- <a href="#ImageRights">Image Rights</a>
 
 <p></p>
 
