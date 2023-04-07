@@ -15,8 +15,11 @@ permalink: /publications/dabble-in/
 
 <h2 id="OpenWeb">Dabble in The Open Web</h2>
 
+*Dabble in The Open Web* is a set of 16 page saddle stitched informational zines about the Open Web and Open Web technologies. These zines cover the basics of what the Open Web is, and how to create, publish, and share your work with the Open Web. The zines feature collages made with retro photographs and comic screentones to illustrate the text. 
+
 ### What is The Open Web?
-*What is The Open Web?* is a 16 page saddle stitched informational zine about the Open Web co-authored by Dana and her Dad, Mike Amundsen, who is a well-known web API architect. The zine covers the basics of what the Open Web is, and how to create, publish, and share your work with the Open Web. The zine features collages made with retro photographs and comic screentones to illustrate the text.
+
+<b>Author:</b> Dana Amundsen, Mike Amundsen
 
 *Click photos to enlarge*   
 <a href="/assets/img/publications/what-is-the-open-web_dana_1.png"><img src="/assets/img/publications/what-is-the-open-web_dana_1.png" alt="A photo of the cover of 'What is Rss?' featuring retro desktop computer monitors on a black background." width="100"></a>
@@ -24,7 +27,8 @@ permalink: /publications/dabble-in/
 <a href="/assets/img/publications/what-is-the-open-web_dana_3.png"><img src="/assets/img/publications/what-is-the-open-web_dana_3.png" alt="A photo of the back of the zine." width="100"></a>
 
 ### What is RSS?
-*What is RSS?* is a 16 page saddle stitched informational zine about RSS, a way to syndicate material online without using social media sites. The zine covers the basics of what RSS is, how it works, and how to use it. The zine features collages made with retro photographs and comic screentones to illustrate the text.
+
+<b>Author:</b> Dana Amundsen
 
 *Click photos to enlarge*  
 <a href="/assets/img/publications/what-is-rss_dana_1.png"><img src="/assets/img/publications/what-is-rss_dana_1.png" alt="A photo of the cover of 'What is Rss?' featuring retro desktop computer monitors on a black background." width="100"></a>
