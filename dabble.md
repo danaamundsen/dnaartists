@@ -22,7 +22,7 @@ permalink: /publications/dabble-in/
 <b>Author:</b> Dana Amundsen, Mike Amundsen
 
 *Click photos to enlarge*   
-<a href="/assets/img/publications/what-is-the-open-web_dana_1.png"><img src="/assets/img/publications/what-is-the-open-web_dana_1.png" alt="A photo of the cover of 'What is Rss?' featuring retro desktop computer monitors on a black background." width="100"></a>
+<a href="/assets/img/publications/what-is-the-open-web_dana_1.png"><img src="/assets/img/publications/what-is-the-open-web_dana_1.png" alt="A photo of the cover of 'What is The Open Web?' featuring a hand reaching to write on a retro computer monitor." width="100"></a>
 <a href="/assets/img/publications/what-is-the-open-web_dana_2.png"><img src="/assets/img/publications/what-is-the-open-web_dana_2.png" alt="A photo showing some of the pages of the zine, featuring typewriter style fonts and black and white photography collages." width="100"></a>
 <a href="/assets/img/publications/what-is-the-open-web_dana_3.png"><img src="/assets/img/publications/what-is-the-open-web_dana_3.png" alt="A photo of the back of the zine." width="100"></a>
 
