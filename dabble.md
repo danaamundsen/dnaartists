@@ -36,7 +36,9 @@ permalink: /publications/dabble-in/
 <a href="/assets/img/publications/what-is-rss_dana_3.png"><img src="/assets/img/publications/what-is-rss_dana_3.png" alt="A photo of the back of the zine." width="100"></a>
 
 <a href="#">Return to top of page.</a>
+
 <!---
+
 <hr>
 
 <h2 id="ImageRights">Dabble in Image Rights</h2>
@@ -45,4 +47,6 @@ permalink: /publications/dabble-in/
 
 ### What is Creative Commons?
 
-<a href="#">Return to top of page.</a> --->
+<a href="#">Return to top of page.</a>
+
+--->
