@@ -9,7 +9,7 @@ permalink: /publications/dabble-in/
 *Dabble* is a series of informative zines meant to be beginners guides to niche topics. In *Dabble* Dana and Alex explore areas of interest that they want to share with other zinesters, artists, and enthusiasts.
 
 - <a href="#OpenWeb">The Open Web</a>
-- <a href="#ImageRights">Image Rights</a>
+<!--- - <a href="#ImageRights">Image Rights</a> --->
 
 <hr>
 
@@ -36,7 +36,7 @@ permalink: /publications/dabble-in/
 <a href="/assets/img/publications/what-is-rss_dana_3.png"><img src="/assets/img/publications/what-is-rss_dana_3.png" alt="A photo of the back of the zine." width="100"></a>
 
 <a href="#">Return to top of page.</a>
-
+<!---
 <hr>
 
 <h2 id="ImageRights">Dabble in Image Rights</h2>
@@ -45,4 +45,4 @@ permalink: /publications/dabble-in/
 
 ### What is Creative Commons?
 
-<a href="#">Return to top of page.</a>
+<a href="#">Return to top of page.</a> --->
