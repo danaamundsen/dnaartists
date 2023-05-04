@@ -16,8 +16,7 @@ permalink: /publications/
 
 <h3 id="DnA">By DnA</h3>
 <ul class="pub">
-  <li><a class="pub_item" href="/dabble-in/" title="Dabble In... - DnA"><img class="thumb" src="http://images.weserv.nl/?url=http://www.dnaartists.net/assets/img/publications/what-is-the-open-web_dana_1.png&w=150&h=150&fit=cover&output=png" alt=""></a></li>
-/what-is-the-open-web_dana_1.png
+  <li><a class="pub_item" href="/publications/dabble-in/" title="Dabble In... - DnA"><img class="thumb" src="http://images.weserv.nl/?url=http://www.dnaartists.net/assets/img/publications/what-is-the-open-web_dana_1.png&w=150&h=150&fit=cover&output=png" alt=""></a></li>
 {% for dnapublication in site.dnapublications %}
   <li><a class="pub_item" href="{{ dnapublication.url }}" title="{{ dnapublication.title }} - {{ dnapublication.author }}"><img class="thumb" src="http://images.weserv.nl/?url=http://www.dnaartists.net{{ dnapublication.img }}&w=150&h=150&fit=cover&output=png" alt="{{ dnapublication.desc }}"></a></li>
 {% endfor %}
