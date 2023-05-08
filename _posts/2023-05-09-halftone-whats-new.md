@@ -6,7 +6,7 @@ tags: ["halftone zinefest 2023", "events", "goods"]
 published: false
 ---
 
-Today I'm bringing you an update of all the new and fresh zines and stationary we will be selling at Halftone ZineFest this Friday, May 13th. For photos, and to listen to us talk about the new stuff check out [our instagram](https://www.instagram.com/dna.artists/), where we did a [livestream](LINK TO LIVE) to show uf all the awesome new stuff. For details about the fest, check out our [events page](https://www.dnaartists.net/events/) and [the Halftone website](https://www.halftonezinefest.org/).
+Today I'm bringing you an update of all the new and fresh zines and stationary we will be selling at Halftone ZineFest this Friday, May 13th. For photos, and to listen to us talk about the new stuff check out [our instagram](https://www.instagram.com/dna.artists/), where we did a [livestream](LINK TO LIVE) to show off all the awesome new stuff. For details about the fest, check out our [events page](https://www.dnaartists.net/events/) and [the Halftone website](https://www.halftonezinefest.org/).
 
 Keep reading to see the list of new products and pricing!
 
