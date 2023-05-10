@@ -24,9 +24,9 @@ Keep reading to see the list of new products and pricing! New items are marked i
 - *Barista Cat - $4*
 - [A.OK's 2022 Sketchbook Highlights](https://www.dnaartists.net/alexpublications/22-sketchbook-a.html) - $8
 - [Dana's 2022 Sketchbook](https://www.dnaartists.net/danapublications/2022-sketchbook.html) - $8
-- *Dabble in The Open Web: What is the Open Web? - $5*
-- *Dabble in The Open Web: What is RSS? - $5*
-- *Dabble in Image RIghts: What is Public Domain? - $5*
+- *[Dabble in The Open Web: What is the Open Web?](https://www.dnaartists.net/publications/dabble-in/) - $5*
+- *[Dabble in The Open Web: What is RSS?](https://www.dnaartists.net/publications/dabble-in/) - $5*
+- *[Dabble in Image RIghts: What is Public Domain?](https://www.dnaartists.net/publications/dabble-in/) - $5*
 
 ## Prints
 
