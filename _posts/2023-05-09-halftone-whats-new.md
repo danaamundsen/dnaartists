@@ -18,10 +18,10 @@ Keep reading to see the list of new products and pricing! New items are marked i
 - [2023 Manifesting Micro Zines](https://www.dnaartists.net/dnapublications/23-micro-dna.html) - Free!!
 - [FYI Fairy Tales Issue 1: Sleeping Beauty](https://www.dnaartists.net/alexpublications/fyi-vol-1-sleeping-beauty.html) - $2
 - [FYI Fairy Tales Issue 2: Goldilocks](https://www.dnaartists.net/alexpublications/fyi-vol-2-goldilocks.html) - $2
-- [*FYI Fairy Tales Issue 3: Tiger Grandmother](https://www.dnaartists.net/alexpublications/fyi-tiger-grandmother.html) - $2*
+- *[FYI Fairy Tales Issue 3: Tiger Grandmother](https://www.dnaartists.net/alexpublications/fyi-tiger-grandmother.html) - $2*
 - [Cat Butts](https://www.dnaartists.net/danapublications/cat-butts.html) - $2
 - [Waiter Cat](https://www.dnaartists.net/danapublications/waiter-cat.html) - $4
-- [*Barista Cat](https://www.dnaartists.net/danapublications/barista-cat.html) - $4*
+- *[Barista Cat](https://www.dnaartists.net/danapublications/barista-cat.html) - $4*
 - [A.OK's 2022 Sketchbook Highlights](https://www.dnaartists.net/alexpublications/22-sketchbook-a.html) - $8
 - [Dana's 2022 Sketchbook](https://www.dnaartists.net/danapublications/2022-sketchbook.html) - $8
 - *[Dabble in The Open Web: What is the Open Web?](https://www.dnaartists.net/publications/dabble-in/) - $5*
