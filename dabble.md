@@ -9,7 +9,7 @@ permalink: /publications/dabble-in/
 *Dabble* is a series of informative zines meant to be beginners guides to niche topics. In *Dabble* Dana and Alex explore areas of interest that they want to share with other zinesters, artists, and enthusiasts.
 
 - <a href="#OpenWeb">The Open Web</a>
-<!--- - <a href="#ImageRights">Image Rights</a> --->
+- <a href="#ImageRights">Image Rights</a>
 
 <hr>
 
@@ -37,15 +37,18 @@ permalink: /publications/dabble-in/
 
 <a href="#">Return to top of page.</a>
 
-<!---
-
 <hr>
 
 <h2 id="ImageRights">Dabble in Image Rights</h2>
 
 ### What is Public Domain?
 
-### What is Creative Commons?
+<b>Author:</b> Alex O'Keefe
+
+*Click photos to enlarge*  
+<a href="/assets/img/publications/what-is-public-domain_alex_1.png"><img src="/assets/img/publications/what-is-public-domain_alex_1.png" alt="A photo of the cover of 'What is Public Domain?'" width="100"></a>
+<a href="/assets/img/publications/what-is-public-domain_alex_2.png"><img src="/assets/img/publications/what-is-public-domain_alex_2.png" alt="A photo showing some of the pages of the zine, featuring typewriter style fonts and black and white photography collages." width="100"></a>
+<a href="/assets/img/publications/what-is-public-domain_alex_3.png"><img src="/assets/img/publications/what-is-public-domain_alex_3.png" alt="A photo of the back of the zine." width="100"></a>
 
 <a href="#">Return to top of page.</a>
 
