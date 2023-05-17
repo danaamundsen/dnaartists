@@ -51,5 +51,3 @@ permalink: /publications/dabble-in/
 <a href="/assets/img/publications/what-is-public-domain_alex_3.png"><img src="/assets/img/publications/what-is-public-domain_alex_3.png" alt="A photo of the back of the zine." width="100"></a>
 
 <a href="#">Return to top of page.</a>
-
---->
