@@ -6,6 +6,7 @@ event_date: 2023-05-13
 time: 12 PM to 5 PM
 location: 21c Art Hotel
 address: 167 West Main Street, Lexington  KY
+published: false
 ---
 
 We will be tabling at [Halftone Zine Fest](https://www.halftonezinefest.org/) in Lexington, KY.
