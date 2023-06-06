@@ -2,7 +2,7 @@ title: DnA Artists
 logo: /assets/img/logo.png
 description: Artists & Friends
 excerpt_separator: <!--more-->
-google_analytics:
+google_analytics: G-260EH38XB7
 theme: jekyll-theme-minimal
 paginate: 5
 paginate_path: "/blog/page:num/"
