@@ -63,10 +63,10 @@ ul.linktree {
   overflow: hidden;
   margin: 0;
   padding: 0;
+  width: 100%;
 }
 
 li a.linktree_item {
-  float: none;
   display: block;
   text-align: center;
   padding: 3px 8px;
@@ -74,6 +74,7 @@ li a.linktree_item {
   font-weight: 900;
   text-decoration: underline;
   color: #00BBE0;
+  background-color: #FEE440;
 }
 
 li a.linktree_item:hover {
