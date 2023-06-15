@@ -11,13 +11,13 @@ It has been a WHIRLWIND festival season, pals! Alex here, reporting from Chicago
 [The fest](https://www.chicagozinefest.org/czf2023.html) was on 5/19-20, but I only attended Saturday. Both Chicago Zine Fest and CAKE (recap coming soon) were back after their pandemic hiatuses, making the vibe *extra* special. 
 
 ![photograph of Alex holding up the Chicago Zine Fest program with a sticker on that says "Wanna Trade?"](/assets/img/post/2023_6_14_aokczf1.png)
-
 *Alex ready to go with her program and sticker letting folks know she's ready to trade.*
+
+<!--more-->
 
 After swapping zines with my Zine Club Chicago BFF, [Clau Rocha](https://www.instagram.com/frog.eyes.toad.heart/), I started my CZF day at a phenomenal workshop hosted by [Beth Hetland](https://www.beth-hetland.com/)! Beth's a comic artist and book-maker extraordinaire who I've collaborated with at my Librarian job! Her lesson reminded me about choose-your-own-adventure zines, a format I'm eager to play with for an upcoming fest. 
 
 ![photograph of a mini choose-your-own-adventure zine, the Chicago Zine Fest program, and a purple marker on a table](/assets/img/post/2023_6_14_aokczf2.png)
-
 *The results of the workshop with Beth Hetland, reigniting my excitement for nontraditional zine formats!*
 
 After that I took to the floor, where over 100 vendors were gathered to sling their zines! As the haul pics show, I...uh...went a little wild at this fest. But there were so many great folks to support as well as friends Dana and I had seen the weekend before at Halftone. How could I resist!? I want to shout out a few folks for you to check out:
@@ -34,4 +34,3 @@ After that I took to the floor, where over 100 vendors were gathered to sling th
 I rounded out my day attending *Incarcerated Zinesters and the Fight Against Prison Censorship presented by [Midwest Books to Prisoners](https://www.midwestbookstoprisoners.org/)*, a sobering and important discussion I'm glad I attended. I haven't stopped thinking about it since I left, and am stil rolling ideas around in my mind for ways I can support their work either as a Zinester or Librarian. Time will tell, but for now you should immediately look them up and learn more about their initiatives!
 
 It was remarkable to see this community of creatives from Chicago and beyond gathered in one place, and I can't wait to see everyone again next year! (When hopefully DnA will be a CZF vendor as well.)
-<!--more-->
