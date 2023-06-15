@@ -6,6 +6,7 @@ author: Created in collaboration with event goers
 img: /assets/img/publications/pals-volume-1_1.png
 desc: A photo of two mini zines
 permalink: /publications/pals/
+published: false
 ---
 
 *Pals!* is a series of mini zines that we make at zine fests with attendees. We select a theme for the zine and accept submissions, which we then collage into one page foldable mini zines. On this page we will archive each volume and provide pdfs for you to download and print. To see a list of contributors for the zine, please check our instagram where we tag all of the contributors.
