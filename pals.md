@@ -4,9 +4,15 @@ title: Pals! Collection
 permalink: /publications/pals/
 ---
 
+# Pals! Collection
+
 *Pals!* is a series of mini zines that we make at zine fests with attendees. We select a theme for the zine and accept submissions, which we then collage into one page foldable mini zines. On this page we will archive each volume and provide pdfs for you to download and print. To see a list of contributors for the zine, please check our instagram where we tag all of the contributors.
 
-## Volume 1, At Detroit Zine Fest: Missing You
+- <a href="#Vol1">Volume 1, At Detroit Zine Fest: Missing You</a>
+
+<hr>
+
+<h2 id="Vol1">Volume 1, At Detroit Zine Fest: Missing You</h2>
 
 *Click photos to enlarge*  
 <a href="/assets/img/publications/pals-volume-1_1.png"><img src="/assets/img/publications/pals-volume-1_1.png" alt="A photo of two mini zines with 'Pals! Volume 1 At Detroit ZineFest 2023. Missing You, Issue 1' and 'Issue 2' written on the cover." width="100"></a>
