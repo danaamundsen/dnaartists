@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chicago Zine Fest Recap
+title: CAKE Recap
 author: Alex
 tags: ["events"]
 published: true
