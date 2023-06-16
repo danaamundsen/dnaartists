@@ -30,6 +30,6 @@ And then it was onto the vendor floor. Once again it was almost overwhelming how
 + [Kelly Phillips](http://www.kellyphillips.net/) - Kelly was the last artist I talked to at the fest and I'm so glad I did! Traveling in all the way from Philidelphia, turns out we share a great love of the iconic Weird Al Yankovic. I was drawn to her display like a magnet thanks to the Weird Al bookmarks, and wound up buying her full autobio comic, *Weird Me: A Story about Growing Up & "Weird Al" Yankovic*. And WHAT a comic it is! It was the first treat from my haul I read and it left me feeling seen and in community with my preteen, Weird-Al-loving self. Whether you are into Al or not, 10/10 highly recommend!
 + This was so tough to narrow down for real. So go look at our IG post to see more folks I tagged in my haul! 
 
-![photograph of Alex's CAKE haul on a hardwood floor including mini zines, stickers, and prints]((https://github.com/danaamundsen/dnaartists/blob/main/assets/img/post/2023_06_16_aokcake.png))
+![photograph of Alex's CAKE haul on a hardwood floor including mini zines, stickers, and prints](/assets/img/post/2023_06_16_aokcake.png)
 
 This was such a magical experience and everyone I talked to said the same. It is now officially a goal for Dana and I to table at this event - so watch out CAKE 2024, we're coming for you!
