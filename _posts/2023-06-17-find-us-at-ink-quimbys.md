@@ -3,7 +3,7 @@ layout: post
 title: Find our Work at iNK and Quimbys
 author: Dana
 tags: ["DnA in the wild", "consigment"]
-published: false
+published: true
 ---
 
 Big news! You can now find our zines at [iNK](https://www.indienky.com/) in Northern Kentucky and [Quimby's](https://www.quimbys.com/) in Chicago.
