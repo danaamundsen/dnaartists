@@ -3,7 +3,7 @@ layout: post
 title: Sign Up for our Newsletter
 author: Dana
 tags: ["updates", "newsletter"]
-published: false
+published: true
 ---
 
 [Keep up with us through our new newsletter on Pencil Booth!](https://pencilbooth.com/dna)
