@@ -6,7 +6,7 @@ tags: ["events", "street cat zine fest 2023", "zinecinnati 2023"]
 published: true
 ---
 
-Alex and I are excited to announce our next two events, which both happen to be in the state of Ohio. We will be slinging zines, stickers, and more in Chillicothe and Cincinnati in the next two months. Keep reading to get the details on these awesome events.
+Alex and I are excited to announce our next two events, which both happen to be in the state of Ohio. We will be slinging zines, stickers, and more at [Street Cat Zine Fest](https://streetcatzinefest.org/) and [Zinecinnati](https://www.zinecinnati.com/) in the next two months. Keep reading to get the details on these awesome events.
 
 <!--more-->
 
