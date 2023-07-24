@@ -6,12 +6,12 @@ tags: ["events", "street cat zine fest 2023", "zinecinnati 2023"]
 published: false
 ---
 
-Post content goes here.
-
-Name of the file should be be formatted: YYYY-MM-DD-title.md with the date being the date posted and not the date drafted.
-
-Posts can be written in markdown (https://github.github.com/gfm/) or html.
+Alex and I are excited to announce our next two events, which both happen to be in the state of Ohio. We will be slinging zines, stickers, and more in Chillicothe and Cincinnati in the next two months. Keep reading to get the details on these awesome events.
 
 <!--more-->
 
-The text above is an excerpt, if you have a longer post you can choose to leave some of it behind the more tag. However, the more tag should appear in each post otherwise only the first paragraph will appear as the exerpt.
+Street Cat Zine Fest is in Chillicothe, OH and will be held at Scioto Township Hall on August 19th. This event was first held in 2017 and has been going on once a year ever since. I (Dana) will be tabling the event solo, but don't worry I will have all of Alex's awesome work available as well! It is our first time tabling at this event but I am very excited to visit Chillicothe and meet some local artists.
+
+Zinecinnati is held in Cincinnati, OH at the Clifton Cultural Arts Center on September 9th. Hosted by local zinesters Tom and Ren, who recently opened iNK, this is *the* Cincinnati zine fest. It also happens to be Alex's birthday weekend so we will definitely be celebrating Zine-style with a special edition of Pals. 
+
+Keep an eye on our [instagram](https://www.instagram.com/dna.artists/) and [events page](https://www.dnaartists.net/events/) to get more info as we approach the event dates. Also, don't forget to [subscribe to our newsletter](https://pencilbooth.com/dna) for event reminders and behind the scenes previews.
