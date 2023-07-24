@@ -2,7 +2,7 @@
 layout: post
 title: Our Instagram is LIVE!!
 author: Dana
-tags: ["updates", "instagram"]
+tags: ["updates"]
 ---
 
 Alex and I have been busy all January setting up our website and our instagram. We're both getting ready for <a href="https://ko-fi.com/detroitzinefest" title="Detroit Zine Fest Ko-fi">Detroit Zine Fest</a>, figuring out how we will set up our table and of course preparing our zines, prints, and stickers for the fest.
