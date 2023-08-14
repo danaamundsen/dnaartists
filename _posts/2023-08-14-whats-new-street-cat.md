@@ -16,8 +16,8 @@ It's that time again! DnA are prepping for another zinefest which means *NEW STU
 - 3" Barista Cat Sticker - $4
 - 3" Disco Bun Sticker - $4
 - Sublime! Magnet - $6
-- DnA Acrylic Keychains - 
-- Zine Camp Mini Zine - 
+- DnA Acrylic Keychains - $8
+- Zine Camp Mini Zine - $4
 
 Keep reading to see the full list of what we're bringing to Street Cat.
 
