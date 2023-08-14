@@ -3,7 +3,7 @@ layout: post
 title: What's New at Street Cat Zine Fest
 author: Dana
 tags: ["street cat zine fest 2023", "events", "goods"]
-published: false
+published: true
 ---
 
 It's that time again! DnA are prepping for another zinefest which means *NEW STUFF* and a new blog post to break it all down. Make your shopping list now so you know what you want to pick up at Street Cat Zine Fest on August 19th (more info on our [events page](https://www.dnaartists.net/events/)).
