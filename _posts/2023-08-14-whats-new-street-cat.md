@@ -8,7 +8,7 @@ published: false
 
 It's that time again! DnA are prepping for another zinefest which means *NEW STUFF* and a new blog post to break it all down. Make your shopping list now so you know what you want to pick up at Street Cat Zine Fest on August 19th (more info on our [events page](https://www.dnaartists.net/events/)).
 
-<!-- add an image here with some of the new items -->
+![](/assets/img/post/2023_08_14_streetcat_debuts.png)
 
 ## Debuting at Street Cat
 
