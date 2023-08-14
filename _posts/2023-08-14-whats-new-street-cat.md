@@ -8,15 +8,16 @@ published: false
 
 It's that time again! DnA are prepping for another zinefest which means *NEW STUFF* and a new blog post to break it all down. Make your shopping list now so you know what you want to pick up at Street Cat Zine Fest on August 19th (more info on our [events page](https://www.dnaartists.net/events/)).
 
-![](/assets/img/post/2023_08_14_streetcat_debuts.png)
+![a banner highlighting the new items DnA will be selling at Street Cat Zine Fest 2023](/assets/img/post/2023_08_14_streetcat_debuts.png)
 
 ## Debuting at Street Cat
 
-- 3" Waiter Cat Stickers
-- 3" Barista Cat Stickers
-- DnA Acrylic Keychains
-- FYI Fairytales
-- Zine Camp
+- 3" Waiter Cat Sticker - $4
+- 3" Barista Cat Sticker - $4
+- 3" Disco Bun Sticker - $4
+- Sublime! Magnet - $6
+- DnA Acrylic Keychains - 
+- Zine Camp Mini Zine - 
 
 Keep reading to see the full list of what we're bringing to Street Cat.
 
