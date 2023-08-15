@@ -62,7 +62,5 @@ Keep reading to see the full list of what we're bringing to Street Cat.
 - DnA Pencil Pouch - $20
 - Space Owl Magnet - $6
 - Space Fox Magnet - $6
-- IYKYK Fandom Buttons - 3 for $1
-- Sunny Stickers - $2
 
 See you in Chilicothe! :D
