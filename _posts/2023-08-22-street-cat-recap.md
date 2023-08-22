@@ -3,7 +3,7 @@ layout: post
 title: Street Cat Recap
 author: Dana
 tags: ["events", "street cat zine fest 2023"]
-published: false
+published: true
 ---
 
 Another zine fest in the books for 2023. I drove out to Chillicothe, OH to sling zines and stickers for DnA last weekend. I debuted some new stickers inspired by my working cat zines and some keychains I have been fiddling with, while Alex debuted a new zine about her experience participating in [Zine Camp](https://www.dnaartists.net/2023/07/29/zine-camp-recap.html).
