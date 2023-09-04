@@ -32,7 +32,7 @@ Keep reading to see the full list of what we're bringing to Street Cat.
 - [Dabble in The Open Web: What is the Open Web?](https://www.dnaartists.net/publications/dabble-in/) - $5
 - [Dabble in The Open Web: What is RSS?](https://www.dnaartists.net/publications/dabble-in/) - $5
 - [Dabble in Image Rights: What is Public Domain?](https://www.dnaartists.net/publications/dabble-in/) - $5
-- Zine Camp Mini Zine - $4
+- [Zine Camp Mini Zine](https://www.dnaartists.net/alexpublications/zine-camp.html) - $4
 
 ## Prints
 
