@@ -13,6 +13,7 @@ Zinecinnati is right around the corner! Alex and I have some new things to share
 - [No-Buy Mini Zine](https://www.dnaartists.net/danapublications/no-buy.html) - $2
 - Pumpkin Spice Gang Prints (5"x7") - $7 ea OR $35 for all seven
 - Witchy Triptych (8"x10") - $12 ea OR $30 for all three
+- Migraine Pain (8"x10") - $12
 
 Keep reading to see the full list of what we're bringing to Street Cat.
 
