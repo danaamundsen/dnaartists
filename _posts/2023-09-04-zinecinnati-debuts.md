@@ -3,10 +3,10 @@ layout: post
 title: New Stuff for Zinecinnati!
 author: Dana
 tags: ["zinecinnati 2023", "events", "goods"]
-published: false
+published: True
 ---
 
-It's that time again! DnA are prepping for another zinefest which means *NEW STUFF* and a new blog post to break it all down. Make your shopping list now so you know what you want to pick up at Street Cat Zine Fest on August 19th (more info on our [events page](https://www.dnaartists.net/events/)).
+Zinecinnati is right around the corner! Alex and I have some new things to share at the fest and are bringing out all of our stickers, zines, and DnA swag to the event. Check out more information about Zinecinnati on our [events page](https://www.dnaartists.net/events/)
 
 ## Debuting at Zinecinnati
 
@@ -20,7 +20,7 @@ Keep reading to see the full list of what we're bringing to Street Cat.
 
 ## Zines
 
-- [*Meet DnA Zine - Free!!*](https://www.dnaartists.net/dnapublications/meet-the-team.html)
+- [Meet DnA Zine - Free!!](https://www.dnaartists.net/dnapublications/meet-the-team.html)
 - [FYI Fairy Tales Issue 1: Sleeping Beauty](https://www.dnaartists.net/alexpublications/fyi-vol-1-sleeping-beauty.html) - $2
 - [FYI Fairy Tales Issue 2: Goldilocks](https://www.dnaartists.net/alexpublications/fyi-vol-2-goldilocks.html) - $2
 - [FYI Fairy Tales Issue 3: Tiger Grandmother](https://www.dnaartists.net/alexpublications/fyi-tiger-grandmother.html) - $2
@@ -64,4 +64,4 @@ Keep reading to see the full list of what we're bringing to Street Cat.
 - Space Fox Magnet - $6
 - Sublime! Magnet - $6
 
-See you in Chilicothe! :D
+See you in Chincy!
