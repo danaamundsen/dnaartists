@@ -6,7 +6,7 @@ event_date: 2023-09-09
 time: 12 PM to 5 PM
 location: Clifton Cultural Arts Center
 address: 2728 Short Vine St, Cincinnati, OH
-published: true
+published: false
 ---
 
 We will be tabling at [Zinecinnati](https://www.zinecinnati.com/) in Cincinnati, OH.
