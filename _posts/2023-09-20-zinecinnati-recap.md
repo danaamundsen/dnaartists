@@ -10,9 +10,13 @@ Hello Pals! Alex and I had a great time at Zinecinnati and the wrap party the ne
 
 Zinecinnati is held at the Clifton Cultural Arts Center in downtown Cincinnati. The space is unique and great for a small zinefest like Zinecinnati. Although the space wasn't as big as some of the other vendor halls we've been in, it was well traficked and packed with diverse artists and craftspeople.
 
-
+<a href="/assets/img/post/2023_09_20_zinecinnati-recap.jpg"><img src="/assets/img/post/2023_09_20_zinecinnati-recap.jpg" style="width: 50%; height: 50%"></a><a href="/assets/img/post/2023_09_20_zinecinnati-recap2.jpg"><img src="/assets/img/post/2023_09_20_zinecinnati-recap2.jpg" style="width: 50%; height: 50%"></a>  
+*Alex setting up our table display*
 
 Our table was in the second room, but we had a pretty sweet set up with a fan and music, and a second entrance right by us. Alex managed our table display and somehow packed in all of our stickers, prints, zines, and other wares into the small space.
+
+<a href="/assets/img/post/2023_09_20_zinecinnati-recap4.jpg"><img src="/assets/img/post/2023_09_20_zinecinnati-recap4.jpg"></a>  
+*The full table set up. Look at all that stuff!*
 
 <!--more-->
 
