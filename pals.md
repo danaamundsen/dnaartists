@@ -10,6 +10,7 @@ permalink: /publications/pals/
 
 - <a href="#Vol1">Volume 1, At Detroit Zine Fest: Missing You</a>
 - <a href="#Vol2">Volume 2, At Halftone Zine Fest: Animal Edition</a>
+- <a href="#Vol3">Volume 3, At Zinecinnati: Birthday Edition</a>
 
 <hr>
 
@@ -33,4 +34,11 @@ permalink: /publications/pals/
 <a href="/assets/img/publications/pals-volume-2_3.png"><img src="/assets/img/publications/pals-volume-2_3.png" alt="A photo of the interior of one of the issues, showing two of the illustrations inside." width="100"></a>
 <a href="/assets/img/publications/pals-volume-2_4.png"><img src="/assets/img/publications/pals-volume-2_4.png" alt="A photo of the back cover which ceatures the DnA logo and says 'Be Our Pal!' with contact information and a list of contributors." width="100"></a>
 
-<a href="https://drive.google.com/file/d/1BqowRWO5xQp2jQKxrRcJd9koff7IFiyI/view?usp=sharing" title="click here to download the pdf">Click here to download the PDF!</a>
+<a href="https://drive.google.com/file/d/1BqowRWO5xQp2jQKxrRcJd9koff7IFiyI/view?usp=sharing" 
+  title="click here to download the pdf">Click here to download the PDF!</a>
+
+<hr>
+
+<h2 id="Vol3">Volume 3, At Zinecinnati: Birthday Edition</h2>
+*Photos coming soon!*
+<a href="https://drive.google.com/file/d/1mP1rymjgOzOg83BdN5FU-s3QW9eadV41/view?usp=sharing" title="click here to download the pdf">Click here to download the PDF!</a>
