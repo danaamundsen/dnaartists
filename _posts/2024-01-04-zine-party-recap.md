@@ -6,7 +6,7 @@ tags: ["events"]
 published: true
 ---
 
-I had such a good time sharing a table with [Cynthia E. Hanifin](https://www.instagram.com/exilefromguyville/) from [Zine Club Chicago](https://www.instagram.com/zineclubchicago/) this past weekend. The [Teen Creative Agency](https://mcachicago.org/learn/youth/tca) from the Museum of Contemporary Art Chicago hosted a zine party at the museum, and it was a blast! 
+I had such a good time sharing a table with [Cynthia E. Hanifin](https://www.instagram.com/exilefromguyville/) from [Zine Club Chicago](https://www.instagram.com/zineclubchicago/) in December. The [Teen Creative Agency](https://mcachicago.org/learn/youth/tca) from the Museum of Contemporary Art Chicago hosted a zine party at the museum, and it was a blast! 
 
 <a href="/assets/img/post/2024_1_4_zinepartyrecap2.png"><img src="/assets/img/post/2024_1_4_zinepartyrecap2.png"></a>
 
