@@ -8,7 +8,7 @@ published: true
 
 I had such a good time sharing a table with Cynthia E. Hanifin from Zine Club Chicago this past weekend. The Teen Creative Agency from the Museum of Contemporary Art Chicago hosted a zine party at the museum, and it was a blast! 
 
-![Person behind table display]([https://octodex.github.com/images/bannekat.png](https://scontent-ord5-2.cdninstagram.com/v/t51.2885-15/412031203_2119203245083186_5114235524313313383_n.jpg?stp=dst-jpg_e35&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE0NDAuc2RyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=110&_nc_ohc=J-rqZKjdpqkAX_NE_qN&edm=ACWDqb8BAAAA&ccb=7-5&ig_cache_key=MzI2MDczNDk4Mjg1OTE2OTA4OQ%3D%3D.2-ccb7-5&oh=00_AfAffl3QGk7jzkYULaf70Eimgng-KO6urQi86XIwqzZ7qg&oe=659ADD08&_nc_sid=ee9879))
+<a href="/assets/img/post/2024_1_4_zinepartyrecap2.png"><img src="/assets/img/post/2024_1_4_zinepartyrecap2.png" style="width: 50%; height: 50%"></a>
 *Alex behind the table at TCA's Zine Party.*
 
 <!--more-->
