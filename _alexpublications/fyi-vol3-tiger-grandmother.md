@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ["FYI Fairy Tales, Volume 3: Tiger Grandmother"]
+title: FYI Fairy Tales, Volume 3 Tiger Grandmother
 date: 2023-05-11
 author: Alex
 img: /assets/img/publications/fyi-little-red_alex_1.png
