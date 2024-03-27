@@ -7,7 +7,7 @@ img: /assets/img/publications/madam-fifi_1.png
 desc: Cover of 'Madame Fifi'
 ---
 
-Follow the one-sided rivalry between Madam Fifi and Boot Scootin' Betty in Alex's quarter-sheet mini zine. The story of these weirdos who work at the circus is rendered in saturated color, transporting the reader to their pink world! 
+Follow the one-sided rivalry between Madam Fifi and Boot Scootin' Betty in Alex's quarter-sheet mini zine. The story of these weirdos who work at the circus is rendered in a saturated color comic, transporting the reader to their pink world! 
 
 *Click photos to enlarge*  
 <a href="/assets/img/publications/madam-fifi_1.png"><img src="/assets/img/publications/madam-fifi_1.png" alt="A photo of the front cover of Madam Fifi, a zine by Alex O'Keefe" width="100"></a>
