@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ["FYI Fairy Tales, Volume 2: Goldilocks"]
+title: FYI Fairy Tales, Volume 2 Goldilocks
 date: 2022-10-20
 author: Alex
 img: /assets/img/publications/fyi-goldilocks_alex_0.png
