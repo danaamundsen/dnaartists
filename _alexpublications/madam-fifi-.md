@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ["The Marvelous, Magnificent, Malevolent - Madam Fifi"]
+title: The Marvelous, Magnificent, Malevolent - Madam Fifi
 date: 2024-3-27
 author: Alex
 img: /assets/img/publications/madam-fifi_1.png
