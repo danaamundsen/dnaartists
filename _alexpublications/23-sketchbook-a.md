@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ["AOK's 2023 Sketchbook Highlights"]
+title: AOK's 2023 Sketchbook Highlights
 date: 2024-3-28
 author: Alex
 img: /assets/img/publications/
