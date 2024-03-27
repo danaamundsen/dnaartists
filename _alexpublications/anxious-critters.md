@@ -3,7 +3,7 @@ layout: publication
 title: ["Anxious Critters, Issue 1"]
 date: 2024-2-27
 author: Alex
-img: /assets/img/publications/amxious-critters-11.png
+img: /assets/img/publications/anxious-critters-11.png
 desc: Cover of 'Anxious Critters Issue 1'
 ---
 
