@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: ["Anxious Critters, Issue 1"]
+title: Anxious Critters, Issue 1
 date: 2024-2-27
 author: Alex
 img: /assets/img/publications/anxious-critters-11.png
