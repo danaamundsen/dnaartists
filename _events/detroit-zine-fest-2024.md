@@ -6,7 +6,7 @@ event_date: 2024-04-06
 time: 12 PM - 6 PM
 location: The Jam Handy
 address: 2900 E Grand Blvd, Detroit, MI
-published: true
+published: false
 ---
 
 We will be tabling at Detroit Zine Fest again this year! We had a great time at DZF last year and are looking forward to seeing everyone again this year!
