@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Folding Pages, Unfolding Lives: A Collaborative Perzine Workshop
+title: Folding Pages, Unfolding Lives - A Collaborative Perzine Workshop
 date: 2024-04-29
 event_date: 2024-05-11
 time: 3 PM to 6 PM
