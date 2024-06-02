@@ -1,7 +1,7 @@
 ---
 layout: publication
 title: Folding Pages, Unfolding Lives - A Collaborative Perzine
-date: 2024-15-24
+date: 2024-05-24
 author: Alex and Dana
 img: /assets/img/publications/foldingpagesunfoldinglives.png
 desc: A photo of the 'folding pages unfolding lives' zine on top of the collaged cover on a grey background.
