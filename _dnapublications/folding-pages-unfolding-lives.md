@@ -11,7 +11,7 @@ desc: A photo of the 'folding pages unfolding lives' zine on top of the collaged
 
 <a href="https://drive.google.com/file/d/1kUrjQIU7sAkh1l_1rihAIrQXs87ELkho/view?usp=sharing">**CLICK HERE TO DOWNLOAD THE POF**</a>
 
-Click <a href=" ">here</a> for printing instructions and <a href="https://www.instagram.com/p/C7sOL7KgvQS/">here</a> for a video walking through assembly. 
+Click <a href="https://drive.google.com/file/d/1bl_9oshlvUOquv7ybNPfDXY5NrmQkXzj/view?usp=sharing">here</a> for printing instructions and <a href="https://www.instagram.com/p/C7sOL7KgvQS/">here</a> for a video walking through assembly. 
 
 *Click photo to enlarge*  
 <a href="/assets/img/publications/foldingpagesunfoldinglives.png"><img src="/assets/img/publications/foldingpagesunfoldinglives.png" alt="A photo of the 'folding pages unfolding lives' zine on top of the collaged cover on a grey background.' zine." width="100"></a>
