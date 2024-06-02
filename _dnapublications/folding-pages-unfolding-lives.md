@@ -19,29 +19,29 @@ Click <a href=" ">here</a> for printing instructions and <a href="https://www.in
 This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a>.
 
 **Thank you to all the contributors!**
-Alé Ramirez, @itsmealeramirez
-Alex O’Keefe, @dna.artists
-Angel xoxo, @angel.xoxoxoxox
-Ash Wilfong, @bashwilfong
-Aubrey Levin (alevinisanumber)
-C. E. Hanifin, @exilefromguyville
-Camryn, @cam.rae
-Cemy Bae
-Clau Rocha, @frog.eyes.toad.heart
-elizabeth s. tieri, @getbacktoprint
-Emilie Weller
-Issa S., @issa_saldana333
-Jeremy P. 
-Jude Bettridge, @hey_jude_1118
-Kaeli Mahnke, @kale_deleone
-Kahlea Williams, @kahlea_x
-Kenny J., @psychotacon
-Liz Mason, @caboosezine
-Marc Lazar
-Marlise Fratinardo
-Mathew Mahnke, @imposing_irrelevence
-Maya Jain, @mayagjain_
-Mindsay Mohan, @mindsaymohan
-Monstrochika, @monstrochika
-nickyC, @nickyc.art
-Rachel Hyman, @bitzapress
+- Alé Ramirez, @itsmealeramirez
+- Alex O’Keefe, @dna.artists
+- Angel xoxo, @angel.xoxoxoxox
+- Ash Wilfong, @bashwilfong
+- Aubrey Levin (alevinisanumber)
+- C. E. Hanifin, @exilefromguyville
+- Camryn, @cam.rae
+- Cemy Bae
+- Clau Rocha, @frog.eyes.toad.heart
+- elizabeth s. tieri, @getbacktoprint
+- Emilie Weller
+- Issa S., @issa_saldana333
+- Jeremy P. 
+- Jude Bettridge, @hey_jude_1118
+- Kaeli Mahnke, @kale_deleone
+- Kahlea Williams, @kahlea_x
+- Kenny J., @psychotacon
+- Liz Mason, @caboosezine
+- Marc Lazar
+- Marlise Fratinardo
+- Mathew Mahnke, @imposing_irrelevence
+- Maya Jain, @mayagjain_
+- Mindsay Mohan, @mindsaymohan
+- Monstrochika, @monstrochika
+- nickyC, @nickyc.art
+- Rachel Hyman, @bitzapress
