@@ -1,7 +1,7 @@
 ---
 layout: event
 title: Zinecinnati
-date: 2024-05-12
+date: 2024-06-17
 event_date: 2024-08-31
 time: 12 PM to 5 PM
 location: Clifton Cultural Arts Center
