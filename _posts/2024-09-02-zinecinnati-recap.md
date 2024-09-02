@@ -3,16 +3,24 @@ layout: post
 title: Comics Club Reading at iNK and Zinecinnati Recap
 author: Dana
 tags: ["events", "zinecinnati"]
-published: false
+published: true
 ---
 
 Phew! It's been a big month for DnA, we've been working hard and having fun with our pals at CAKE and Zinecinnati. Alex will be writing about CAKE, but this post is going to be about Zinecinnati and the Comics Club Pre-Party the night before at iNK.
+
+<a href="/assets/img/post/2024_09_02_zinecinnati1.jpg"><img src="/assets/img/post/2024_09_02_zinecinnati1.jpg"></a>  
+<a href="/assets/img/post/2024_09_02_zinecinnati4.jpg"><img src="/assets/img/post/2024_09_02_zinecinnati4.jpg"  style="width: 45%;"></a>   
+*A photo of Dana doing her reading, and the cover art for her comic.*
 
 I was rushing the weeks before the fests to finish my newest comic project, *Devoted*, a victorian fantasy romance. When I saw the post asking for volunteers to do live readings at the Comics Club, I was initially hesitant to do it. Alex encouraged me, like any good friend, and I decided to go for it. I'm really glad I did! First of all, the event itself was great. I laughed at some readings and got properly freaked out by others (I'm looking at you Beth!). Mine was simple, and I was honestly surprised that people went out of their way after my reading to tell me that they enjoyed it. I have a pretty intense case of imposter syndrome and have a hard time looking at my work objectively so it always feels special when someone says they enjoy my work.
 
 Keep reading to hear about the fest the next day!
 
 <!--more-->
+
+<a href="/assets/img/post/2024_09_02_zinecinnati2.jpg"><img src="/assets/img/post/2024_09_02_zinecinnati2.jpg"></a>  
+<a href="/assets/img/post/2024_09_02_zinecinnati3.jpg"><img src="/assets/img/post/2024_09_02_zinecinnati3.jpg"></a>  
+*Two photos of the table display, one on it's own and one with Dana standing proudly behind it!*
 
 The fest itself was also great. Tom and Ren do a wonderful job organizing and hosting the event. As soon as I came in, a volunteer pointed me toward my table and Tom checked on me multiple times throughout the day to make sure everything was going well. These kinds of things make a huge difference in the vendor experience, which I think also feeds into the experience of the attendees.
 
