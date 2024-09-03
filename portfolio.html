@@ -1,0 +1,21 @@
+---
+layout: default
+title: Portfolio
+permalink: /portfolio/
+---
+
+<h1>Portfolio</h1>
+
+<h3>Comics</h3>
+<ul class="pub">
+{% for comic in site.comics %}
+  <li><a class="pub_item" href="{{ comic.url }}" title="{{ comic.title }} - {{ comic.author }}"><img class="thumb" src="http://images.weserv.nl/?url=http://www.dnaartists.net{{ comic.img }}&w=150&h=150&fit=cover&output=png" alt="{{ comic.desc }}"></a></li>
+{% endfor %}
+</ul>
+
+<h3>Zines</h3>
+<ul class="pub">
+{% for zine in zines %}
+  <li><a class="pub_item" href="{{ zine.url }}" title="{{ zine.title }} - {{ zine.author }}"><img class="thumb" src="http://images.weserv.nl/?url=http://www.dnaartists.net{{ zine.img }}&w=150&h=150&fit=cover&output=png" alt="{{ zine.desc }}"></a></li>
+{% endfor %}
+</ul>
