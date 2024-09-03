@@ -40,5 +40,19 @@ collections:
     author: true
     img: true
     desc: true
+  comics:
+    output: true
+    title: true
+    date: true
+    author: true
+    img: true
+    desc: true
+  zines:
+    output: true
+    title: true
+    date: true
+    author: true
+    img: true
+    desc: true
     
 # post_img: /assets/img/post/
