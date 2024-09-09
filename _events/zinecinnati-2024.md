@@ -6,7 +6,7 @@ event_date: 2024-08-31
 time: 12 PM to 5 PM
 location: Clifton Cultural Arts Center
 address: 3412 Clifton Ave, Cincinnati, OH
-published: true
+published: false
 ---
 
 We will be tabling at [Zinecinnati](https://www.zinecinnati.com/) in Cincinnati, OH.
