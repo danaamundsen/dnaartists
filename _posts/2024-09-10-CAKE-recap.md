@@ -12,7 +12,7 @@ Keep reading to discover awesome artists!
 
 <!--more-->
 
-I didn’t have much time to walk around, but I had the great privilege of seeing Trung Le Nguyen’s panel, Comics & Fairy Tales + get my copy of Magic Fish signed. Magic Fish is my all time favorite comic – so it was SO EXCITING to chat with Trung and hear more about his process. We also traded for some of his beautiful prints, and I picked up some of his mini comics (all amazing).
+I didn’t have much time to walk around, but I had the great privilege of seeing <a href="https://www.trungles.com/">Trung Le Nguyen’s</a> panel, Comics & Fairy Tales + get my copy of <a href="https://bookshop.org/p/books/the-magic-fish-trung-le-nguyen/14722854?ean=9781984851598&gad_source=1&gclid=CjwKCAjw3P-2BhAEEiwA3yPhwGWtw07jROXFIMlW4HgTZS398FWufM2HSFpEHLZlRujEEmnZDU-IaBoC6j0QAvD_BwE"><i>Magic Fish</i></a> signed. <i>Magic Fish</i> is my all time favorite comic – so it was SO EXCITING to chat with Trung and hear more about his process. We also traded for some of his beautiful prints, and I picked up some of his mini comics (all amazing).
 
 In the time I did have to take a stroll, I got… 
 - A <i>Cactus Kid</i> comic and matching sticker from my kind and fun tablemate, <a href="https://www.instagram.com/perdido_blues">Emmanuel Guerrero</a>
