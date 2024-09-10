@@ -6,7 +6,7 @@ tags: ["events", "CAKE"]
 published: true
 ---
 
-Alex here! I had an amazing time at CAKE in August! It was my first time tabling, but I’m a long-time fan of this gathering of amazing comic artists, cartoonists, and illustrators. Along with meeting a number of cool creatives, I also volunteered as a CAKE coordinator this year - so it was particularly special to see the fruits of the amazing organizers’ and coordinators’ labor! 
+Alex here! I had an amazing time at CAKE in August! It was my first time tabling, but I’m a long-time fan of this gathering of rad comic artists, cartoonists, and illustrators. Along with meeting a number of cool creatives, I also volunteered as a CAKE coordinator this year - so it was particularly special to see the fruits of the outstanding organizers’ and coordinators’ labor! 
 
 Keep reading to discover awesome artists!
 
