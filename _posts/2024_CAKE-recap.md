@@ -1,0 +1,26 @@
+---
+layout: post
+title: CAKE Recap
+author: Alex
+tags: ["events", "CAKE"]
+published: true
+---
+
+Alex here! I had an amazing time at CAKE in August! It was my first time tabling, but I’m a long-time fan of this gathering of amazing comic artists, cartoonists, and illustrators. Along with meeting a number of cool creatives, I also volunteered as a CAKE coordinator this year - so it was particularly special to see the fruits of the amazing organizers’ and coordinators’ labor! 
+
+Keep reading to discover awesome artists!
+
+<!--more-->
+
+I didn’t have much time to walk around, but I had the great privilege of seeing Trung Le Nguyen’s panel, Comics & Fairy Tales + get my copy of Magic Fish signed. Magic Fish is my all time favorite comic – so it was SO EXCITING to chat with Trung and hear more about his process. We also traded for some of his beautiful prints, and I picked up some of his mini comics (all amazing).
+
+In the time I did have to take a stroll, I got… 
+- A <i>Cactus Kid</i> comic and matching sticker from my kind and fun tablemate, <a href="https://www.instagram.com/perdido_blues">Emmanuel Guerrero</a>
+- A Bobby Hill slut sticker (obsessed) + minizine from fellow CAKE volunteer and awesome human, <a href="https://www.instagram.com/saturn2169/">Andrea Pearson</a> of <a href="https://www.instagram.com/aquatic_panda_distro/">Aquatic Panda Distro</a>
+- The newest <i>Cool Teen Mothman</i> zine + a cool crow skull sticker from <a href="https://www.instagram.com/corruptedgem/">Emily Kardamis</a>
+- A fun ‘weapon of choice’ sticker from <a href="https://www.tessenelireid.com/">Tess Eneli Reid</a>
+- The lovely <i>Song for Medusa</i> from <a href="https://www.instagram.com/gracedesmarais/">Grace Desmarais</a>
+- A cute sticker from <a href="https://www.instagram.com/alexwillan/">Alex Willan</a> (who was nice enough to drop it off after we bonded about Louisville, haha)
+So my haul might be small but it’s MIGHTY GOOD! 
+
+It was a hot, whirlwind of a weekend - but I’m so honored I shared space with amazing artists and cool humans for a few days in my home city :) Here’s to another good show in 2025! 
