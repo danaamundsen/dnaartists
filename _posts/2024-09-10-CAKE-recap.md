@@ -21,6 +21,7 @@ In the time I did have to take a stroll, I got…
 - A fun ‘weapon of choice’ sticker from <a href="https://www.tessenelireid.com/">Tess Eneli Reid</a>
 - The lovely <i>Song for Medusa</i> from <a href="https://www.instagram.com/gracedesmarais/">Grace Desmarais</a>
 - A cute sticker from <a href="https://www.instagram.com/alexwillan/">Alex Willan</a> (who was nice enough to drop it off after we bonded about Louisville, haha)
+
 So my haul might be small but it’s MIGHTY GOOD! 
 
 It was a hot, whirlwind of a weekend - but I’m so honored I shared space with amazing artists and cool humans for a few days in my home city :) Here’s to another good show in 2025! 
