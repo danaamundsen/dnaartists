@@ -9,7 +9,7 @@ address: 2937 W 25th St. Cleveland, OH
 published: true
 ---
 
-We will be tabling at [Gneghis Con](https://www.Genghisconcleveland.com) in Cleveland, OH!
+We will be tabling at [Genghis Con](https://www.Genghisconcleveland.com) in Cleveland, OH!
 
 <!--more-->
 
