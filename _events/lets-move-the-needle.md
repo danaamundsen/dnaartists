@@ -1,7 +1,7 @@
 ---
 layout: event
 title: Let's Move the Needle - Book Launch And Art Party
-date: 2024-10-17
+date: 2024-09-08
 event_date: 2024-10-19
 time: 6 PM to 10 PM
 location: Workshop 4200
