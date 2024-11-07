@@ -6,6 +6,10 @@ layout: default
 
 <p>Author: {{ page.author }}</p>
 
+{% if page.shoplink %}
+<p><a href="{{ page.shoplink }}" target="_blank">Click to purchase</a></p>
+{% endif %}
+
 <p>{{content}}
 
 <p><a href="/publications/" title="Return to publications page">Return to publications page</a></p>

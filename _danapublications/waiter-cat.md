@@ -5,6 +5,7 @@ date: 2023-01-11
 author: Dana
 img: /assets/img/publications/waiter-cat_dana_1.png
 desc: A photo of Waiter Cat, a zine by Dana Amundsen
+shoplink: https://dna-artists.square.site/product/waiter-cat/2
 ---
 
 Waiter Cat is a humorous 8 page saddle stitched zine inspired by Dana's time working as a waitress in Louisville, KY, and her cat Kiki who likes to hang out with Dana in the kitchen.
