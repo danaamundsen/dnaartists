@@ -5,6 +5,7 @@ date: 2024-04-09
 author: Alex
 img: /assets/img/publications/2024_moon_1.png
 desc: The cover of Alex's Moon Zine cut into a half circle.
+shoplink: https://dna-artists.square.site/product/moon/66
 ---
 
 A zine with circle-cut pages featuring a short comic following Moon as she romances Sun.

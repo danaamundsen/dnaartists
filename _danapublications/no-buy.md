@@ -6,6 +6,7 @@ author: Dana
 img: /assets/img/publications/no-buy_1.jpg
 desc: A photo of No-Buy, a mini zine by Dana Amundsen
 publish: false
+shoplink: https://dna-artists.square.site/product/no-buy/44
 ---
 
 *No-Buy* is a zine about all the things that Dana did not buy during her month-long no-buy experiment. On the back of the zine, there is a place for the reader to create their own no-buy rules and reflect on the experience.

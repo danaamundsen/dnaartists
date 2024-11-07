@@ -5,6 +5,7 @@ date: 2022-10-20
 author: Alex
 img: /assets/img/publications/fyi-goldilocks_alex_0.png
 desc: ["The cover of FYI Fairy Tales Issue 2:Goldilocks"]
+shoplink: https://dna-artists.square.site/product/fyi-goldilocks/27
 ---
 
 *FYI Fairy Tales, Volume 2: Goldilocks* focuses on notable variants of the Goldilocks fairy tale, featuring a sassy plot summary of *The Three Bears* by Robert Southey (the first written variant of the tale on record until Elizabeth Mure's book was discovered). Use this bite-sized zine to learn more about the human character's evolution from old lady, to little girl, to Goldilocks!

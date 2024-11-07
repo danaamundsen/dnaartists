@@ -5,6 +5,7 @@ date: 2023-02-4
 author: Dana
 img: /assets/img/publications/cat-butts_dana_1.png
 desc: A photo of Cat Butts, a zine by Dana Amundsen
+shoplink: https://dna-artists.square.site/product/cat-butts/9
 ---
 
 Cat Butts is a humorous 8 page mini zine filled with cute illustrations of cats.

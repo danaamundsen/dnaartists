@@ -5,6 +5,7 @@ date: 2023-05-11
 author: Dana
 img: /assets/img/publications/barista-cat_dana_1.png
 desc: A photo of Waiter Cat, a zine by Dana Amundsen
+shoplink: https://dna-artists.square.site/product/barista-cat/23
 ---
 
 Barista Cat is a humorous 8 page saddle stitched zine inspired by Dana's job as a barista.

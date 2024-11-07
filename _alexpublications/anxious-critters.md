@@ -5,6 +5,7 @@ date: 2024-2-27
 author: Alex
 img: /assets/img/publications/anxious-critters-11.png
 desc: Cover of 'Anxious Critters Issue 1'
+shoplink: https://dna-artists.square.site/product/critters1/63
 ---
 
 *Anxious Critters* is Alex's perzine meets infozine meets comic about two critters learning to be roommates - one just happens to be a rabbit while the other is human. If you’ve ever wondered what it takes to adopt a rabbit, you love the catharsis of laughing at anxiety, or you just think bunnies are cuties - this zine is for you!

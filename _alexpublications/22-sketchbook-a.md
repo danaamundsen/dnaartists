@@ -5,6 +5,7 @@ date: 2023-2-8
 author: Alex
 img: /assets/img/publications/22sketchbook_alex_0.png
 desc: The cover of AOK's 2022 Sketchbook Highlights
+shoplink: https://dna-artists.square.site/product/a-ok-s-2022-sketchbook-highlights/6
 ---
 
 *AOK's 2022 Sketchbook Highlights* shares doodles, sketches, comics, and other nifty things from Alex's 2022 sketchbooks.

@@ -5,6 +5,7 @@ date: 2023-02-4
 author: Dana
 img: /assets/img/publications/sketchbook-2022_dana_1.png
 desc: A photo of 2022 Sketchbook, a zine by Dana Amundsen
+shoplink: https://dna-artists.square.site/product/dana-s-2022-sketchbook/4
 ---
 
 2022 Sketchbook is a 20 page zine filled with Dana's drawings from 2022. It is a mix of digital and traditional sketches, some of which have never been shared before.
