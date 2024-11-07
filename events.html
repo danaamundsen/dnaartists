@@ -9,7 +9,9 @@ permalink: /events/
   {% if esize == 0 %} 
     <p>No upcoming events. Check back soon.</p>
   {% else %}
-{% for event in site.events | sort: 'date' %}
+{% assign sorted_events = site.events | sort: 'date' %}
+{% for event in sorted_events %}
+
 
 <h2><a href="{{ event.url }}">{{ event.title }}</a></h2>
 <p><b>Date:</b> {{ event.event_date | date: "%a, %b %d, %Y" }}
