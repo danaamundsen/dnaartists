@@ -6,7 +6,7 @@ event_date: 2024-10-19
 time: 6 PM to 10 PM
 location: Workshop 4200
 address: 4200 W Diversey Ave, Chicago, IL 60639
-published: true
+published: false
 ---
 
 Alex is pumped to be a part of the book launch party for Shannon Downey's debut, Let's Move the Needle! 

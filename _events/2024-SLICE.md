@@ -6,7 +6,7 @@ event_date: 2024-10-26
 time: 10 AM to 5 PM
 location: The Sheldon
 address: 3648 Washington Ave, St Louis, MO
-published: true
+published: false
 ---
 
 We will be tabling at [SLICE](https://www.slicexpo.org) in St. Louis, MO!
