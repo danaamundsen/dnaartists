@@ -6,6 +6,7 @@ author: Alex
 img: /assets/img/publications/goldilocks_1.jpg
 desc: ["The cover of FYI Fairy Tales Issue 2:Goldilocks"]
 shoplink: https://dna-artists.square.site/product/fyi-goldilocks/27
+group: fyi
 ---
 
 <a href="/assets/img/publications/goldilocks_1.jpg"><img src="/assets/img/publications/goldilocks_1.jpg" alt="A photo of the front cover of FYI Fairy Tales, Volume 2: Goldilocks, a zine by Alex O'Keefe" width="100"></a>

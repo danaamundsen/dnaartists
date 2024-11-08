@@ -6,6 +6,7 @@ author: Alex
 img: /assets/img/publications/sleeping-beauty_1.jpg
 desc: ["The cover of FYI Fairy Tales Issue 1: Sleeping Beauty"]
 shoplink: https://dna-artists.square.site/product/fyi-sleeping-beauty/11
+group: fyi
 ---
 
 <a href="/assets/img/publications/sleeping-beauty_1.jpg"><img src="/assets/img/publications/sleeping-beauty_1.jpg" alt="A photo of the front cover of FYI Fairy Tales, Volume 1: Sleeping Beauty, a zine by Alex O'Keefe" width="100"></a>

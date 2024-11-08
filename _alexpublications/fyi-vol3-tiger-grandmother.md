@@ -6,6 +6,7 @@ author: Alex
 img: /assets/img/publications/tiger-grandmother_1.jpg
 desc: ["The cover of FYI Fairy Tales Issue 3: Tiger Grandmother"]
 shoplink: https://dna-artists.square.site/product/fyi-tiger-grandmother/28
+group: fyi
 ---
 
 <a href="/assets/img/publications/tiger-grandmother_1.jpg"><img src="/assets/img/publications/tiger-grandmother_1.jpg" alt="A photo of the front cover of FYI Fairy Tales, Volume 3: Tiger Grandmother, a zine by Alex O'Keefe" width="100"></a>

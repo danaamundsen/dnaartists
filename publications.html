@@ -35,7 +35,10 @@ permalink: /publications/
 
 <h3 id="Alex">By Alex</h3>
 <ul class="pub">
-{% for alexpublication in site.alexpublications %}
+{% assign fyi_publications = site.alexpublications | where:"group","fyi" %}
+{% assign ungrouped_publications = site.alexpublications | where: "group", null %}
+{% assign sorted_alexpublications = fyi_publications | concat: ungrouped_publications %}
+{% for alexpublication in sorted_alexpublications %}
   <li><a class="pub_item" href="{{ alexpublication.url }}" title="{{ alexpublication.title }} - {{ alexpublication.author }}"><img class="thumb" src="http://images.weserv.nl/?url=http://www.dnaartists.net{{ alexpublication.img }}&w=150&h=150&fit=cover&output=png" alt="{{ alexpublication.desc }}"></a></li>
 {% endfor %}
 </ul>
