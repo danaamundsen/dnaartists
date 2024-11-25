@@ -13,4 +13,6 @@ We will be tabling at [Genghis Con](https://www.Genghisconcleveland.com) in Clev
 
 <!--more-->
 
-More details to come as we get closer to the event.
+From their website: "Cleveland, Ohio’s much loved Small Press and Independent Comic Convention returns to bring together so many prolific practitioners of independent print media! Cartoonists, zinesters, printmakers, authors, illustrators, small press publishers, educators and advocates converge to exhibit their work, converse about their processes and celebrate the independent print community thriving throughout the greater rust-belt region and beyond!" 
+
+Check out the <a href="https://www.genghisconcleveland.com/exhibitors">full exhibitor list!</a>
