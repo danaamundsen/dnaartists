@@ -6,7 +6,7 @@ event_date: 2024-12-01
 time: 11 AM to 5 PM
 location: The Pivot Center
 address: 2937 W 25th St. Cleveland, OH
-published: true
+published: false
 ---
 
 We will be tabling at [Genghis Con](https://www.Genghisconcleveland.com) in Cleveland, OH!
