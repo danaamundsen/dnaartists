@@ -1,7 +1,7 @@
 ---
 layout: event
 title: Detroit Zine Fest
-date: 2025-03-27
+date: 2025-03-26
 event_date: 2025-04-05
 time: 12 PM - 6 PM
 location: The Jam Handy
