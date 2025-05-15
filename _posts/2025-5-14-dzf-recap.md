@@ -6,8 +6,10 @@ tags: ["events", "detroit zine fest"]
 published: true
 ---
 
-Alex FINALLY made it to Detroit! After being foiled two years in a row, she was able to go to where DnA launched. It was our first, and remains one of our most beloved shows. Alex was pumped to rep DnA!
+Hey pals! Alex here :) I FINALLY made it to Detroit! After being foiled two years in a row, I was able to go to where DnA launched. It was our first, and remains one of our most beloved shows. I was pumped to rep DnA!
 
-<a href="/assets/img/post/2024_04_09dzf1.jpg"><img src="/assets/img/post/2024_04_09dzf1.jpg"></a>  
-<a href="/assets/img/post/2024_04_09dzf3.jpg"><img src="/assets/img/post/2024_04_09dzf3.jpg"></a>  
-*Photo of the table display, followed by a photo of the inside of the venue full of artists and attendees*
+<a href="assets/img/post/25-5-14_dzfrecap_1.PNG"><img src="assets/img/post/25-5-14_dzfrecap_1.PNG"></a> 
+*Photo of Alex behind the DnA table.*
+Read on to see how it went!
+
+<!--more-->
