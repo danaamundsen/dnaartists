@@ -8,7 +8,7 @@ published: true
 
 Hey pals! Alex here :) I FINALLY made it to Detroit! After being foiled two years in a row, I was able to go to where DnA launched. It was our first, and remains one of our most beloved shows. I was pumped to rep DnA!
 
-<a href="assets/img/post/25-5-14_dzfrecap_1.PNG"><img src="assets/img/post/25-5-14_dzfrecap_1.PNG"></a> 
+<a href="assets/img/post/25-5-14_dzfrecap_1.png"><img src="assets/img/post/25-5-14_dzfrecap_1.png"></a> 
 
 *Photo of Alex behind the DnA table.*
 Read on to see how it went!
