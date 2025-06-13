@@ -6,7 +6,7 @@ event_date: 2025-04-05
 time: 12 PM - 6 PM
 location: The Jam Handy
 address: 2900 E Grand Blvd, Detroit, MI
-published: true
+published: false
 ---
 
 We will be tabling at Detroit Zine Fest again this year! Kick of Zine Fest Season 2025 with us in Detroit! 
