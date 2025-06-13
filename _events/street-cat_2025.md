@@ -1,12 +1,12 @@
 ---
 layout: event
 title: Street Cat Zine Fest
-date: 2023-07-25
-event_date: 2023-08-19
+date: 2025-06-12
+event_date: 2025-07-12
 time: 12 PM to 6 PM
 location: Scioto Township Hall
 address: 164 South Watt Street, Chillicothe, OH
-published: false
+published: true
 ---
 
 We will be tabling at [Street Cat Zine Fest](https://streetcatzinefest.org/) in Chillicothe, OH.
