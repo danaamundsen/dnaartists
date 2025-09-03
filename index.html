@@ -35,7 +35,7 @@ layout: default
   {% if esize == 0 %} 
     <li>No upcoming events. Check back soon.</li>
   {% else %}
-  {% for event in site.events limit:3 %}
+  {% for event in site.events limit:5 %}
 
   <li><a href="{{ event.url }}">{{ event.title }}</a><small> - {{ event.event_date | date: "%D" }}</small></li>
 
