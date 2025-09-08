@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Alex's Summer Class Revap
+title: Alex's Summer Class Recap
 author: Alex
 tags: ["Behind the Scenes"]
 published: true
@@ -11,7 +11,6 @@ This summer, I (Alex) had the privilege to take a Comics class at SAIC called �
 <a href="/assets/img/post/25-9-8-aoksummer3.jpeg"><img src="/assets/img/post/25-9-8-aoksummer3.jpeg"></a> 
 *Photo of Alex's studio.*
 
-Read on to hear how it went!
 <!--more-->
 
 This was on the heels of finishing my spring class, Writing for Graphic Novels, with the reigning Queen of Horror at SAIC,  <a href="https://www.instagram.com/bethhetland/">Beth Hetland</a> - which was AMAZING. I used this residency to continue that work (without directly working on that story…) My graphic novel script is about a girl who turns into a deer, but I haven’t decided on the final visual form I want it to take. During this pseudo-residency, I worked on a DIFFERENT story with magical realism and deers to start sorting that out lol.
