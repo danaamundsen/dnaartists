@@ -2,7 +2,7 @@
 layout: post
 title: Pals! Volume 1 Release
 author: Dana
-tags: ["Pals!", "detroit zine fest 2023"]
+tags: ["Pals!", "Fests"]
 published: true
 ---
 
