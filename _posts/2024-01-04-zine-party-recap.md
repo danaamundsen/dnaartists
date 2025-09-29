@@ -2,7 +2,7 @@
 layout: post
 title: MCA TCA Zine Party Recap
 author: Alex
-tags: ["events"]
+tags: ["Events"]
 published: true
 ---
 

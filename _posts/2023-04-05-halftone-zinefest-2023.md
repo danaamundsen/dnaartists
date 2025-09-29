@@ -2,7 +2,7 @@
 layout: post
 title: We’ll Be Attending Halftone ZineFest!
 author: Dana
-tags: ["halftone zinefest 2023", "events"]
+tags: ["halftone zinefest 2023", "Events"]
 published: true
 ---
 

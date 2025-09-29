@@ -2,7 +2,7 @@
 layout: post
 title: Zinecinnati Recap
 author: Dana
-tags: ["Events", "events"]
+tags: ["Events", "Events"]
 published: true
 ---
 

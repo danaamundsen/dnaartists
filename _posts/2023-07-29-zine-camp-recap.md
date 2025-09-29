@@ -2,7 +2,7 @@
 layout: post
 title: Zine Camp Recap
 author: Alex
-tags: ["events"]
+tags: ["Events"]
 published: true
 ---
 

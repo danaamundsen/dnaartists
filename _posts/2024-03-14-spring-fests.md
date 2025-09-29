@@ -2,7 +2,7 @@
 layout: post
 title: Upcoming Spring Fests!
 author: Dana
-tags: ["events"]
+tags: ["Events"]
 published: true
 ---
 
