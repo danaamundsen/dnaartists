@@ -2,7 +2,7 @@
 layout: post
 title: What's New at Street Cat Zine Fest
 author: Dana
-tags: ["Fests", "Events", "New Release"]
+tags: ["News", "New Release"]
 published: true
 ---
 

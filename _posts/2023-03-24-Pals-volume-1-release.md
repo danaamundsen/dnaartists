@@ -2,7 +2,7 @@
 layout: post
 title: Pals! Volume 1 Release
 author: Dana
-tags: ["Pals!", "Fests"]
+tags: ["Pals!", "Fests", "New Release"]
 published: true
 ---
 

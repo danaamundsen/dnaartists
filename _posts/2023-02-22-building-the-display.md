@@ -2,7 +2,7 @@
 layout: post
 title: Building the Table Display for DnA
 author: Dana
-tags: ["Fests", "Events"]
+tags: ["Behind the Scenes"]
 published: true
 ---
 

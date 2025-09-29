@@ -2,7 +2,7 @@
 layout: post
 title: What's New for Halftone ZineFest
 author: Dana
-tags: ["Fests", "Events", "New Release"]
+tags: ["News", "New Release"]
 published: true
 ---
 

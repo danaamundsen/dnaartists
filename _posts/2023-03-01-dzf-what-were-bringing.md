@@ -2,7 +2,7 @@
 layout: post
 title: What We're Bringing to DZF 
 author: Dana
-tags: ["Fests", "Events", "New Release"]
+tags: ["News", "New Release"]
 published: true
 ---
 

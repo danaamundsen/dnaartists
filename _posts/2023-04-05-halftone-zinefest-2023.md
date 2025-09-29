@@ -2,7 +2,7 @@
 layout: post
 title: We’ll Be Attending Halftone ZineFest!
 author: Dana
-tags: ["Fests", "Events"]
+tags: ["News"]
 published: true
 ---
 

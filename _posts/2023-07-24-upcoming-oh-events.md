@@ -2,7 +2,7 @@
 layout: post
 title: Upcoming Ohio Fests!
 author: Dana
-tags: ["Events", "Fests"]
+tags: ["News"]
 published: true
 ---
 
