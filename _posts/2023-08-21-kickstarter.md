@@ -2,7 +2,7 @@
 layout: post
 title: The Revenge of Hallowzine Kickstarter!
 author: Alex
-tags: ["News"]
+tags: ["News", "New Release"]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: New Stuff for Zinecinnati!
 author: Dana
-tags: ["Events", "New Release"]
+tags: ["News", "New Release"]
 published: True
 ---
 
@@ -15,7 +15,7 @@ Zinecinnati is right around the corner! Alex and I have some new things to share
 - Witchy Triptych (8"x10") - $12 ea OR $30 for all three
 - Migraine Pain (8"x10") - $12
 
-Keep reading to see the full list of what we're bringing to Street Cat.
+Keep reading to see the full list of what we're bringing to Zinecinnati.
 
 <!--more-->
 

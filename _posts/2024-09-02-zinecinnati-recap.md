@@ -2,7 +2,7 @@
 layout: post
 title: Comics Club Reading at iNK and Zinecinnati Recap
 author: Dana
-tags: ["Events"]
+tags: ["Fests", "Events", "New Release"]
 published: true
 ---
 

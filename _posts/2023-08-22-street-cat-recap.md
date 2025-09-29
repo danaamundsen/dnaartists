@@ -2,7 +2,7 @@
 layout: post
 title: Street Cat Recap
 author: Dana
-tags: ["Fests"]
+tags: ["Fests", "New Release"]
 published: true
 ---
 

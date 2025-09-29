@@ -6,7 +6,7 @@ tags: ["Fests"]
 published: true
 ---
 
-Hi! Dana here, checking in to recap Halftone Zine Fest 2024. This was a great local event for kentuckians to share their work and meet other artists and zinesters. Compared to last yeasr Halftone Zine Fest, the atmosphere was more relaxed and intimate.
+Hi! Dana here, checking in to recap Halftone Zine Fest 2024. This was a great local event for kentuckians to share their work and meet other artists and zinesters. Compared to last year's Halftone Zine Fest, the atmosphere was more relaxed and intimate.
 
 <a href="/assets/img/post/2024_05_13_halftone1.jpg"><img src="/assets/img/post/2024_05_13_halftone1.jpg"></a>  
 <a href="/assets/img/post/2024_05_13_halftone2.jpg"><img src="/assets/img/post/2024_05_13_halftone2.jpg"></a>  
