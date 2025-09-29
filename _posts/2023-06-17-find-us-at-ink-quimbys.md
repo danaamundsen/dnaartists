@@ -2,13 +2,13 @@
 layout: post
 title: Find our Work at iNK and Quimbys
 author: Dana
-tags: ["DnA in the wild", "consigment"]
+tags: ["Consignment"]
 published: true
 ---
 
 Big news! You can now find our zines at [iNK](https://www.indienky.com/) in Northern Kentucky and [Quimby's](https://www.quimbys.com/) in Chicago.
 
-Alex and I are testing out some consigment locations as a way to make our work more accessible. Currently our work is only available at events which makes it hard for people to get their hands on our zines, prints, and stickers. Since we are based in Cincinnati and Chicago, we wanted to get our work on shelves there first.
+Alex and I are testing out some consignment locations as a way to make our work more accessible. Currently our work is only available at events which makes it hard for people to get their hands on our zines, prints, and stickers. Since we are based in Cincinnati and Chicago, we wanted to get our work on shelves there first.
 
 Indie Northern Kentucky, or iNK, is a new shop run by the organizers of [Zinecinnati](https://www.zinecinnati.com/). They just had their grand opening on June 2nd, during the Bellvue First Friday where shops on Fairfield Ave stay open late to invite people to shop, eat, and enjoy live performances. I stopped by and chatted with some people in the shop and snapped some pictures of the awesome zine wall.
 
