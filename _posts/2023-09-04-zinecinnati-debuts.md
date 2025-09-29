@@ -2,7 +2,7 @@
 layout: post
 title: New Stuff for Zinecinnati!
 author: Dana
-tags: ["zinecinnati 2023", "events", "New Release"]
+tags: ["Events", "events", "New Release"]
 published: True
 ---
 

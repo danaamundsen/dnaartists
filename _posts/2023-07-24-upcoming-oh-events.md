@@ -2,7 +2,7 @@
 layout: post
 title: Upcoming Ohio Fests!
 author: Dana
-tags: ["events", "street cat zine fest 2023", "zinecinnati 2023"]
+tags: ["events", "street cat zine fest 2023", "Events"]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Sign Up for our Newsletter
 author: Dana
-tags: ["News", "newsletter"]
+tags: ["News"]
 published: true
 ---
 
