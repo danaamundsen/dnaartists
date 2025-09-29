@@ -2,7 +2,7 @@
 layout: post
 title: New Stuff for Zinecinnati!
 author: Dana
-tags: ["Events", "Events", "New Release"]
+tags: ["Events", "New Release"]
 published: True
 ---
 
