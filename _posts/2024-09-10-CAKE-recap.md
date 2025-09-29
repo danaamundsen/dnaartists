@@ -2,7 +2,7 @@
 layout: post
 title: CAKE Recap
 author: Alex
-tags: ["Events", "Fests"]
+tags: ["Fests"]
 published: true
 ---
 

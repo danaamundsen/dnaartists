@@ -2,7 +2,7 @@
 layout: post
 title: Chicago Zine Fest Recap
 author: Alex
-tags: ["Events"]
+tags: ["Fests"]
 published: true
 ---
 
