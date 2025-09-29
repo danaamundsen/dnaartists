@@ -2,7 +2,7 @@
 layout: post
 title: What We're Bringing to DZF 
 author: Dana
-tags: ["detroit zine fest 2023", "events", "goods"]
+tags: ["detroit zine fest 2023", "events", "New Release"]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: What's New for Halftone ZineFest
 author: Dana
-tags: ["halftone zinefest 2023", "events", "goods"]
+tags: ["halftone zinefest 2023", "events", "New Release"]
 published: true
 ---
 

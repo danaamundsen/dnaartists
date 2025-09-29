@@ -2,7 +2,7 @@
 layout: post
 title: What's New at Street Cat Zine Fest
 author: Dana
-tags: ["street cat zine fest 2023", "events", "goods"]
+tags: ["street cat zine fest 2023", "events", "New Release"]
 published: true
 ---
 
