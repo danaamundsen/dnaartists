@@ -2,7 +2,7 @@
 layout: post
 title: We're a Business, B!tch
 author: Dana
-tags: ["updates"]
+tags: ["News"]
 published: true
 ---
 

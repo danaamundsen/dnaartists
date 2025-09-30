@@ -2,7 +2,7 @@
 layout: post
 title: Building the Table Display for DnA
 author: Dana
-tags: ["detroit zine fest 2023", "events"]
+tags: ["Behind the Scenes"]
 published: true
 ---
 

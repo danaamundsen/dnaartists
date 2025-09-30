@@ -15,7 +15,7 @@ This summer, I (Alex) had the privilege to take a Comics class at SAIC called �
 
 This was on the heels of finishing my spring class, Writing for Graphic Novels, with the reigning Queen of Horror at SAIC,  <a href="https://www.instagram.com/bethhetland/">Beth Hetland</a> - which was AMAZING. I used this residency to continue that work (without directly working on that story…) My graphic novel script is about a girl who turns into a deer, but I haven’t decided on the final visual form I want it to take. During this pseudo-residency, I worked on a DIFFERENT story with magical realism and deers to start sorting that out lol.
 
-<a href="/assets/img/post/25-9-8-aoksummer2.jpeg"><img src="assets/img/post/25-9-8-aoksummer2.jpeg"></a> 
+<a href="/assets/img/post/25-9-8-aoksummer2.jpeg"><img src="/assets/img/post/25-9-8-aoksummer2.jpeg"></a> 
 *Photo of inked pages on Alex's studio wall.*
 
 Cue: *Doe*, a 12-page, hand-drawn horror comic (that eventually will be watercolored). The final comic wouldn’t have been possible without mentorship from each co-instructor: Beth, <a href="https://www.instagram.com/jeremytinder/">Jeremy Tinder</a>, and <a href="https://www.instagram.com/__bench_press/">Madeleine Aguilar</a>. All three are INCREDIBLE artists, but more importantly they are incredibly kind people ✨ Go follow them immediately!! Each instructor gave me a new perspective or something to chew on as I developed this comic, and it truly wouldn’t be what it is without each of them. 

@@ -2,7 +2,7 @@
 layout: post
 title: Zinecinnati Recap
 author: Dana
-tags: ["zinecinnati 2023", "events"]
+tags: ["Fests", "Consignment"]
 published: true
 ---
 

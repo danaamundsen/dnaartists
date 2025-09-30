@@ -2,7 +2,7 @@
 layout: post
 title: Halftone ZineFest 2023 Recap
 author: Dana
-tags: ["halftone zinefest 2023", "events"]
+tags: ["Fests"]
 published: true
 ---
 

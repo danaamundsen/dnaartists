@@ -2,7 +2,7 @@
 layout: post
 title: Street Cat Recap
 author: Dana
-tags: ["events", "street cat zine fest 2023"]
+tags: ["Fests", "New Release"]
 published: true
 ---
 
